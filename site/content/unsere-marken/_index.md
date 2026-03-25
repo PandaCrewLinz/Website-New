@@ -11,7 +11,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![](https://www.dccx-digital.com/wp-content/uploads/2026/01/ChatGPT-Image-28.-Jan.-2026-12_48_29.png)
+![](/wp-content/uploads/2026/01/ChatGPT-Image-28.-Jan.-2026-12_48_29.png)
 
 #### **Die dccx GmbH**
 
@@ -39,7 +39,7 @@ Die bildstadt GmbH ist ein Linzer Studio für Foto und Videoproduktionen mit kla
 
 Zur Website: [Link](https://bildstadt.at/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2026/01/bildstadt_logo.png)
+![](/wp-content/uploads/2026/01/bildstadt_logo.png)
 
 ##### Say Cheeze
 
@@ -47,7 +47,7 @@ say cheeze ist das Selfie Fotostudio zum Selberknipsen. Ihr seid gleichzeitig Mo
 
 Zur Website: [Link](https://www.say-cheeze.at/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2026/01/SayCheeze_Logo.webp)
+![](/wp-content/uploads/2026/01/SayCheeze_Logo.webp)
 
 ##### Foto24Studio
 
@@ -55,7 +55,7 @@ foto24studio ist euer Fotostudio in Linz für private Shootings und persönliche
 
 Zur Website: [Link](https://www.foto24studio.com/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2026/01/f24s_logo_short_black.png)
+![](/wp-content/uploads/2026/01/f24s_logo_short_black.png)
 
 ##### Pandocs
 
@@ -63,7 +63,7 @@ pandocs ist eine Gesundheits und Lifestyle App, die Nutzer spielerisch zu mehr F
 
 Zur Website: [Link](https://www.pandocs.com/de/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2026/01/Pandocs_Logo-1024x210.png)
+![](/wp-content/uploads/2026/01/Pandocs_Logo-1024x210.png)
 
 ### Erfahrung
 

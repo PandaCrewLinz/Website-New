@@ -11,7 +11,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Mann der auf sein Handy schaut, welches eine App von dccx anzeigt.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-app-entwicklung-scaled.jpg)
+![Mann der auf sein Handy schaut, welches eine App von dccx anzeigt.](/wp-content/uploads/2023/11/dccx-app-entwicklung-scaled.jpg)
 
 #### dccx Blog – Ihre Quelle für Wissen und Inspiration in der digitalen Welt.
 

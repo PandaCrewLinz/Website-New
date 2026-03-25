@@ -10,7 +10,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Eine Frau arbeitet flexibel und erstellt eine Social Media Strategie.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-social-media-scaled.jpg)
+![Eine Frau arbeitet flexibel und erstellt eine Social Media Strategie.](/wp-content/uploads/2023/11/dccx-social-media-scaled.jpg)
 
 ##### Zeige deine Zugehörigkeit: dccx Merchandise für echte Fans!
 
@@ -39,31 +39,31 @@ Kein Problem! In unserem Shop findest du auch coole Designs, die einfach nur Spa
 
 #### **Unser Merchandise**
 
-![merch7](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch7-150x150.jpg)
+![merch7](/wp-content/uploads/2024/02/merch7-150x150.jpg)
 
-![merch 8](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch-8-150x150.jpg)
+![merch 8](/wp-content/uploads/2024/02/merch-8-150x150.jpg)
 
-![merch5](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch5-150x150.jpg)
+![merch5](/wp-content/uploads/2024/02/merch5-150x150.jpg)
 
-![merch 4](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
+![merch 4](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
 
-![merch3](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
+![merch3](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
 
-![merch 2](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
+![merch 2](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
 
-![merch 1](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-3-150x150.jpg)
+![merch 1](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-3-150x150.jpg)
 
-![merch7](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch7-150x150.jpg)
+![merch7](/wp-content/uploads/2024/02/merch7-150x150.jpg)
 
-![merch 8](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch-8-150x150.jpg)
+![merch 8](/wp-content/uploads/2024/02/merch-8-150x150.jpg)
 
-![merch5](https://www.dccx-digital.com/wp-content/uploads/2024/02/merch5-150x150.jpg)
+![merch5](/wp-content/uploads/2024/02/merch5-150x150.jpg)
 
-![merch 4](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
+![merch 4](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
 
-![merch3](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
+![merch3](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
 
-![merch 2](https://www.dccx-digital.com/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
+![merch 2](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
 
 ##### Dein neues Lieblingsstück wartet auf dich
 

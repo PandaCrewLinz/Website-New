@@ -16,7 +16,7 @@ values_individueller_ansatz: "Wir verstehen, dass jedes Unternehmen einzigartig 
 values_ergebnis_fokussiert: "Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Social Media Präsenz in echte Geschäftsergebnisse zu verwandeln."
 ---
 
-![Eine Frau arbeitet flexibel und erstellt eine Social Media Strategie.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-social-media-scaled.jpg)
+![Eine Frau arbeitet flexibel und erstellt eine Social Media Strategie.](/wp-content/uploads/2023/11/dccx-social-media-scaled.jpg)
 
 ##### **Willkommen bei dccx: Ihrem Partner für herausragendes Social Media Marketing!**
 
@@ -30,17 +30,17 @@ Bei dccx verstehen wir, dass Social Media mehr ist als nur das Posten von Inhalt
 
 ## Sorglos Pakete
 
-- ##### [1\. Foto](/social-media-marketing//#qodef-tab-42c87ee)
+- ##### [1\. Foto](/social-media-marketing/\#qodef-tab-42c87ee)
 
-- ##### [2\. Video](/social-media-marketing//#qodef-tab-b2bdd93)
+- ##### [2\. Video](/social-media-marketing/\#qodef-tab-b2bdd93)
 
-- ##### [3\. Foto & Video](/social-media-marketing//#qodef-tab-cf91620)
+- ##### [3\. Foto & Video](/social-media-marketing/\#qodef-tab-cf91620)
 
-- ##### [4\. Social Media I](/social-media-marketing//#qodef-tab-0d3e430)
+- ##### [4\. Social Media I](/social-media-marketing/\#qodef-tab-0d3e430)
 
-- ##### [5\. Social Media II](/social-media-marketing//#qodef-tab-5f2bea1)
+- ##### [5\. Social Media II](/social-media-marketing/\#qodef-tab-5f2bea1)
 
-- ##### [6\. Förderung](/social-media-marketing//#qodef-tab-413f820)
+- ##### [6\. Förderung](/social-media-marketing/\#qodef-tab-413f820)
 
 
 **100 bearbeitete Fotos in Ihrem neuen und individuellen Look**
@@ -140,17 +140,17 @@ Die Zukunft der Arbeit beginnt hier
 
 #### **Unser Leistungsangebot**
 
-- ##### [1\. Strategische Planung](/social-media-marketing//#qodef-tab-42c87ee)
+- ##### [1\. Strategische Planung](/social-media-marketing/\#qodef-tab-42c87ee)
 
-- ##### [2\. Inhaltskreation](/social-media-marketing//#qodef-tab-b2bdd93)
+- ##### [2\. Inhaltskreation](/social-media-marketing/\#qodef-tab-b2bdd93)
 
-- ##### [3\. Community Management](/social-media-marketing//#qodef-tab-cf91620)
+- ##### [3\. Community Management](/social-media-marketing/\#qodef-tab-cf91620)
 
-- ##### [4\. Anzeigenmanagement](/social-media-marketing//#qodef-tab-0627117)
+- ##### [4\. Anzeigenmanagement](/social-media-marketing/\#qodef-tab-0627117)
 
-- ##### [5\. Analyse und Optimierung](/social-media-marketing//#qodef-tab-7eba4fc)
+- ##### [5\. Analyse und Optimierung](/social-media-marketing/\#qodef-tab-7eba4fc)
 
-- ##### [6\. Budgetoptimierung](/social-media-marketing//#qodef-tab-3d2ff87)
+- ##### [6\. Budgetoptimierung](/social-media-marketing/\#qodef-tab-3d2ff87)
 
 
 Wir entwickeln maßgeschneiderte Social Media Strategien, die perfekt zu Ihren Geschäftszielen passen. Egal, ob Sie eine neue Marke einführen oder Ihre bestehende Präsenz ausbauen möchten, unsere Strategien sind darauf ausgerichtet, maximale Ergebnisse zu erzielen.

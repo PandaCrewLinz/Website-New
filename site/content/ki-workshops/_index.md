@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Ein KI Roboter gibt einen Workshop](https://www.dccx-digital.com/wp-content/uploads/2025/04/ChatGPT-Image-7.-Apr.-2025-23_20_35.png)
+![Ein KI Roboter gibt einen Workshop](/wp-content/uploads/2025/04/ChatGPT-Image-7.-Apr.-2025-23_20_35.png)
 
 ## KI-Workshops für Ihr Unternehmen – praxisnah & zukunftsorientiert
 
@@ -30,13 +30,13 @@ Wir entwickeln nicht nur individuelle KI-Lösungen, sondern helfen Ihnen auch, d
 
 ##### Unsere Workshops
 
-- ##### [\- KI-Kompetenz](/ki-workshops//#qodef-tab-a1dce3d)
+- ##### [\- KI-Kompetenz](/ki-workshops/\#qodef-tab-a1dce3d)
 
-- ##### [\- n8n](/ki-workshops//#qodef-tab-02065a4)
+- ##### [\- n8n](/ki-workshops/\#qodef-tab-02065a4)
 
-- ##### [\- Generative KI](/ki-workshops//#qodef-tab-04bd9cb)
+- ##### [\- Generative KI](/ki-workshops/\#qodef-tab-04bd9cb)
 
-- ##### [\- Content-Optimierung](/ki-workshops//#qodef-tab-b3e0463)
+- ##### [\- Content-Optimierung](/ki-workshops/\#qodef-tab-b3e0463)
 
 
 Die neue KI-Verordnung stellt Unternehmen vor eine klare Aufgabe: Ab dem 2. Februar 2025 ist der Nachweis von KI-Kompetenz für Mitarbeitende, die mit KI-Systemen arbeiten, gesetzlich vorgeschrieben. Arbeitgeber müssen belegen, dass ihre Teams über ein 'ausreichendes Maß an KI-Kompetenzen' verfügen (Art. 4 KI-VO), um einen sicheren und verantwortungsvollen Einsatz von KI zu gewährleisten.

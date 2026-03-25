@@ -17,7 +17,7 @@ values_individueller_ansatz: "Wir verstehen, dass jedes Unternehmen einzigartig 
 values_ergebnis_fokussiert: "Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln."
 ---
 
-![Mann der auf sein Handy schaut, welches eine App von dccx anzeigt.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-app-entwicklung-scaled.jpg)
+![Mann der auf sein Handy schaut, welches eine App von dccx anzeigt.](/wp-content/uploads/2023/11/dccx-app-entwicklung-scaled.jpg)
 
 Unsere leidenschafltichen Entwickler erschaffen einzigartige Apps, die das Benutzererlebnis revolutionieren.
 
@@ -31,13 +31,13 @@ Innovative Funktionen: Unser Team implementiert innovative Funktionen, um Ihre A
 
 ##### Unsere 4 Schritte zu Ihrer erfolgreichen App.
 
-- ##### [1\. Konzeption und Planung](/app-entwicklung//#qodef-tab-903cc43)
+- ##### [1\. Konzeption und Planung](/app-entwicklung/\#qodef-tab-903cc43)
 
-- ##### [2\. Design und Benutzererlebnis](/app-entwicklung//#qodef-tab-f8bf9c3)
+- ##### [2\. Design und Benutzererlebnis](/app-entwicklung/\#qodef-tab-f8bf9c3)
 
-- ##### [3\. Entwicklung und Testing](/app-entwicklung//#qodef-tab-65c38b0)
+- ##### [3\. Entwicklung und Testing](/app-entwicklung/\#qodef-tab-65c38b0)
 
-- ##### [4\. Verfeinerung und Optimierung](/app-entwicklung//#qodef-tab-8cab73c)
+- ##### [4\. Verfeinerung und Optimierung](/app-entwicklung/\#qodef-tab-8cab73c)
 
 
 Wir beginnen mit einer tiefgreifenden Analyse Ihrer Idee und entwickeln eine Strategie, um sicherzustellen, dass Ihre App Ihre Ziele erfüllt.
@@ -95,15 +95,15 @@ Haben Sie Fragen zu Design, Funktionen oder Kosten einer App? Oder möchten Sie 
 
 ### **Mit der richtigen App zum Erfolg: Die entscheidenden Fragen**
 
-- ##### [1\. Ziel und Zweck der App](/app-entwicklung//#qodef-tab-903cc43)
+- ##### [1\. Ziel und Zweck der App](/app-entwicklung/\#qodef-tab-903cc43)
 
-- ##### [2\. Technische Anforderungen](/app-entwicklung//#qodef-tab-f8bf9c3)
+- ##### [2\. Technische Anforderungen](/app-entwicklung/\#qodef-tab-f8bf9c3)
 
-- ##### [3\. Design und Benutzerfreundlichkeit](/app-entwicklung//#qodef-tab-65c38b0)
+- ##### [3\. Design und Benutzerfreundlichkeit](/app-entwicklung/\#qodef-tab-65c38b0)
 
-- ##### [4\. Budget und Zeitplan](/app-entwicklung//#qodef-tab-8cab73c)
+- ##### [4\. Budget und Zeitplan](/app-entwicklung/\#qodef-tab-8cab73c)
 
-- ##### [5\. Nach der Entwicklung](/app-entwicklung//#qodef-tab-5271f28)
+- ##### [5\. Nach der Entwicklung](/app-entwicklung/\#qodef-tab-5271f28)
 
 
 - Was ist das Hauptziel Ihrer App? Welches Problem löst sie oder welches Bedürfnis befriedigt sie?

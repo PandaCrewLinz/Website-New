@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Zwei Männer die auf den Bildschirm schauen. Einer davon ist ein KI Berater.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-ki-beratung-scaled.jpg)
+![Zwei Männer die auf den Bildschirm schauen. Einer davon ist ein KI Berater.](/wp-content/uploads/2023/11/dccx-ki-beratung-scaled.jpg)
 
 #### KI-Beratung für Ihre Unternehmenspraxis
 
@@ -24,19 +24,19 @@ Wir sind darauf spezialisiert maßgeschneiderte KI-Lösungen zu entwickeln oder 
 
 ##### Unsere Dienstleistungen
 
-- ##### [\- Beratung](/ki-beratung//#qodef-tab-f812c7d)
+- ##### [\- Beratung](/ki-beratung/\#qodef-tab-f812c7d)
 
-- ##### [\- Prozessautomatisierung](/ki-beratung//#qodef-tab-cb4790c)
+- ##### [\- Prozessautomatisierung](/ki-beratung/\#qodef-tab-cb4790c)
 
-- ##### [\- KI-Assistenz & Wissenssysteme](/ki-beratung//#qodef-tab-de17d17)
+- ##### [\- KI-Assistenz & Wissenssysteme](/ki-beratung/\#qodef-tab-de17d17)
 
-- ##### [\- Kundenservice-Chatbots](/ki-beratung//#qodef-tab-9f81711)
+- ##### [\- Kundenservice-Chatbots](/ki-beratung/\#qodef-tab-9f81711)
 
-- ##### [\- Datenauswertung und Prognose](/ki-beratung//#qodef-tab-f48cbce)
+- ##### [\- Datenauswertung und Prognose](/ki-beratung/\#qodef-tab-f48cbce)
 
-- ##### [\- Anrufe und Spache](/ki-beratung//#qodef-tab-4f6f673)
+- ##### [\- Anrufe und Spache](/ki-beratung/\#qodef-tab-4f6f673)
 
-- ##### [\- Workflow-Analyse](/ki-beratung//#qodef-tab-839e00f)
+- ##### [\- Workflow-Analyse](/ki-beratung/\#qodef-tab-839e00f)
 
 
 Individuelle Strategieentwicklung für Ihre digitale Transformation. Von der Konzeption bis zur Umsetzung stehen wir Ihnen zur Seite.

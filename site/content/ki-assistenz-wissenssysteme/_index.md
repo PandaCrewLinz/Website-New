@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![freundlicher KI Roboter](https://www.dccx-digital.com/wp-content/uploads/2025/04/ChatGPT-Image-7.-Apr.-2025-23_08_39.png)
+![freundlicher KI Roboter](/wp-content/uploads/2025/04/ChatGPT-Image-7.-Apr.-2025-23_08_39.png)
 
 ## Revolutionieren Sie Ihre Kommunikation im Unternehmen
 
@@ -119,8 +119,8 @@ Unsere KI-Assistenten basieren auf modernsten Large Language Models und nutzen R
 
 Lassen Sie uns gemeinsam besprechen, wie wir Ihr Unternehmen mit KI-gestützten Assistenz- und Wissenssystemen in die Zukunft führen können.
 
-- **[Vereinbaren Sie jetzt ein kostenloses Erstgespräch](/ki-assistenz-wissenssysteme/)**
-- **[Schreiben Sie uns Ihre Anforderungen](/ki-assistenz-wissenssysteme/)**
+- **[Vereinbaren Sie jetzt ein kostenloses Erstgespräch](/ki-assistenz-wissenssysteme/#)**
+- **[Schreiben Sie uns Ihre Anforderungen](/ki-assistenz-wissenssysteme/#)**
 - **Profitieren Sie von unserer Expertise**
 
 ##### Bereit, loszulegen?

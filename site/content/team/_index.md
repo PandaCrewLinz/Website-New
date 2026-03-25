@@ -10,7 +10,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/05/Lisa-foto-1024x1024.jpg)
+![](/wp-content/uploads/2025/05/Lisa-foto-1024x1024.jpg)
 
 #### Lisa Jirawa
 
@@ -18,7 +18,7 @@ Fotografie & Social Media
 
 [l.jirawa@dccx.it](mailto:l.jirawa@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/06/Clemens-Mitter-1024x1024.jpg)
+![](/wp-content/uploads/2025/06/Clemens-Mitter-1024x1024.jpg)
 
 #### Clemens Mitter-Bakos
 
@@ -26,7 +26,7 @@ Vertrieb
 
 [c.mitter@dccx.it](mailto:c.mitter@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/04/alexander_altendorfer-768x768.jpg.webp)
+![](/wp-content/uploads/2025/04/alexander_altendorfer-768x768.jpg.webp)
 
 #### Alexander Altendorfer, BSc
 
@@ -34,7 +34,7 @@ CDO - UI/UX
 
 [a.altendorfer@dccx.it](mailto:a.altendorfer@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/05/13-05-25-Kollegen0049-1024x1024.jpg)
+![](/wp-content/uploads/2025/05/13-05-25-Kollegen0049-1024x1024.jpg)
 
 #### Daniel Bersenkowitsch
 
@@ -42,7 +42,7 @@ CTO - Programmierung
 
 [d.bersenkowitsch@dccx.it](mailto:d.bersenkowitsch@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/05/13-05-25-Kollegen0038-1024x1024.jpg)
+![](/wp-content/uploads/2025/05/13-05-25-Kollegen0038-1024x1024.jpg)
 
 #### Artem Sborets
 
@@ -80,7 +80,7 @@ Fotografie & Video
 
 [office@dccx.it](mailto:office@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/12/dccx007_sophisticated_AI_robot_in_a_classic_James_Bond_tuxedo_h_81134283-384f-4ec5-9491-9ebe31b6eddd-1024x574.png)
+![](/wp-content/uploads/2025/12/dccx007_sophisticated_AI_robot_in_a_classic_James_Bond_tuxedo_h_81134283-384f-4ec5-9491-9ebe31b6eddd-1024x574.png)
 
 #### T.I.M.
 
@@ -90,7 +90,7 @@ The Intelligent Machine
 
 ## Geschäftsführung
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/04/Dominik-Wittkowski-1024x1024.jpeg)
+![](/wp-content/uploads/2025/04/Dominik-Wittkowski-1024x1024.jpeg)
 
 #### Dominik Wittkowski
 
@@ -98,7 +98,7 @@ Geschäftsführung - AI Expert
 
 [d.wittkowski@dccx.it](mailto:d.wittkowski@dccx.it)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2025/04/24-10-24-Portraits2065-2-1024x1024.jpg)
+![](/wp-content/uploads/2025/04/24-10-24-Portraits2065-2-1024x1024.jpg)
 
 #### Christoph Huber, MSc
 

@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Grafik ein Mann erstellt eine Website](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-website-scaled.jpg)
+![Grafik ein Mann erstellt eine Website](/wp-content/uploads/2023/11/dccx-website-scaled.jpg)
 
 ###### **Microsoft Solutions welche begeistern und Geschäftsziele erreichen**
 
@@ -32,13 +32,13 @@ show_tech_stack: false
 
 ## Individualsoftware im Microsoft Umfeld
 
-- ##### [1\. Office 365](/microsoft-solutions//#qodef-tab-903cc43)
+- ##### [1\. Office 365](/microsoft-solutions/\#qodef-tab-903cc43)
 
-- ##### [2\. Microsoft Teams](/microsoft-solutions//#qodef-tab-f8bf9c3)
+- ##### [2\. Microsoft Teams](/microsoft-solutions/\#qodef-tab-f8bf9c3)
 
-- ##### [3\. Power Automate](/microsoft-solutions//#qodef-tab-65c38b0)
+- ##### [3\. Power Automate](/microsoft-solutions/\#qodef-tab-65c38b0)
 
-- ##### [4\. Dynamics CRM](/microsoft-solutions//#qodef-tab-292d6d9)
+- ##### [4\. Dynamics CRM](/microsoft-solutions/\#qodef-tab-292d6d9)
 
 
 #### Erweitern Sie Ihre Office-Suite mit maßgeschneiderten Add-Ins und Integrationen!

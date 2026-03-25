@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Ein Roboter oder KI der die Anrufe entgegen nimmt](https://www.dccx-digital.com/wp-content/uploads/2025/01/Roboter-der-Telefoniert.webp)
+![Ein Roboter oder KI der die Anrufe entgegen nimmt](/wp-content/uploads/2025/01/Roboter-der-Telefoniert.webp)
 
 #### **KI-Mitarbeiter am Telefon**
 

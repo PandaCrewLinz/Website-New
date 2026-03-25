@@ -12,7 +12,7 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-![Illustration eines autonomen KI-Agenten, der Unternehmensprozesse wie Analyse, Entscheidungen und Automatisierung visuell vernetzt darstellt.](https://www.dccx-digital.com/wp-content/uploads/2026/01/agent.png)
+![Illustration eines autonomen KI-Agenten, der Unternehmensprozesse wie Analyse, Entscheidungen und Automatisierung visuell vernetzt darstellt.](/wp-content/uploads/2026/01/agent.png)
 
 #### **Das Herzstück**
 
@@ -72,7 +72,7 @@ werden:
 - Soundeffekte und Musik-Erstellung
 - Social Media Formatierung (TikTok, Instagram, YouTube)
 
-![Starter Grundgerüst + Email 4.320,- Professional Grundgerüst + Content Creator 6.720,- Business Grundgerüst + Content + OCR-Datenbank 9.120,- Enterprise Alle Module komplett 15.040,-](https://www.dccx-digital.com/wp-content/uploads/2026/01/preise-1024x683.png)
+![Starter Grundgerüst + Email 4.320,- Professional Grundgerüst + Content Creator 6.720,- Business Grundgerüst + Content + OCR-Datenbank 9.120,- Enterprise Alle Module komplett 15.040,-](/wp-content/uploads/2026/01/preise-1024x683.png)
 
 ##### Bereit, loszulegen?
 

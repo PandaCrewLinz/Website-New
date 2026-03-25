@@ -26,15 +26,15 @@ Sie möchten die Gesundheit und Zufriedenheit der Mitarbeitenden in Ihrem Untern
 
 Pandocs ist eine moderne, digitale BGF-Lösung: Im Gegensatz zu analogen Einzelmaßnahmen kann Pandocs flexibel in den Alltag integriert und anonym genutzt werden. Vor allem beim Thema mentales Wohlbefinden resultiert das in deutlich höheren Nutzungszahlen.
 
-[Folder Herunterladen](https://www.dccx-digital.com/wp-content/uploads/2024/06/Pandocs_B2B.pdf)
+[Folder Herunterladen](/wp-content/uploads/2024/06/Pandocs_B2B.pdf)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/01_Login-Start@2x-576x1024.png)
+![](/wp-content/uploads/2024/06/01_Login-Start@2x-576x1024.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/02_Dashboard@2x-576x1024.png)
+![](/wp-content/uploads/2024/06/02_Dashboard@2x-576x1024.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/03_Challenge-Tagestraining@2x-576x1024.png)
+![](/wp-content/uploads/2024/06/03_Challenge-Tagestraining@2x-576x1024.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/05_Challenge-Tagestraining-%E2%80%93-1@2x-575x1024.png)
+![](/wp-content/uploads/2024/06/05_Challenge-Tagestraining-%E2%80%93-1@2x-575x1024.png)
 
 #### Eine Win-Win Situation
 
@@ -70,9 +70,9 @@ Das ist betriebliche Gesundheitsförderung, die etwas bringt und funktioniert.
 
 Sie sehen gerade einen Platzhalterinhalt von **Standard**. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf den Button unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.
 
-[Inhalt entsperren](/bgf/) [Erforderlichen Service akzeptieren und Inhalte entsperren](/bgf/)
+[Inhalt entsperren](/bgf/#) [Erforderlichen Service akzeptieren und Inhalte entsperren](/bgf/#)
 
-[Weitere Informationen](/bgf/)
+[Weitere Informationen](/bgf/#)
 
 ### Ein vollständiges Konzept
 
@@ -98,7 +98,7 @@ Mit Pandocs wird Ihre betriebliche Gesundheitsförderung so individuell, wie es 
 
 Das klingt nach viel Arbeit? Ist es nicht! Denn Pandocs liefert bereits eine Vielzahl an Inhalten, die von Expert:innen sorgfältig erstellt wurden. Zusätzlich zu diesen Standard-Inhalten können Sie aber auch firmeninterne Challenges und Belohnungen erstellen, die nur für Ihre Mitarbeiter:innen sichtbar sind.
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/Pandocs-Business-2048x1152.png-1024x576.webp)
+![](/wp-content/uploads/2024/06/Pandocs-Business-2048x1152.png-1024x576.webp)
 
 ###### Firmeninterne Aktionstage und Informationen
 

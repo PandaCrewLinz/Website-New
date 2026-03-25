@@ -8,6 +8,12 @@ const FIRECRAWL_DIR = path.join(ROOT, "source", "firecrawl");
 const SITE_DIR = path.join(ROOT, "site");
 const CONTENT_DIR = path.join(SITE_DIR, "content");
 const DATA_DIR = path.join(SITE_DIR, "data");
+const STATIC_UPLOADS_DIR = path.join(SITE_DIR, "static", "wp-content", "uploads");
+const REFERENCE_UPLOAD_DIRS = [
+  path.join(ROOT, "source", "site-dump", "wp-content", "uploads"),
+  path.join(ROOT, "source", "site-dump-2", "site-dump-2", "www.dccx-digital.com", "wp-content", "uploads"),
+  STATIC_UPLOADS_DIR,
+];
 
 const SITE_HOST = "https://www.dccx-digital.com";
 const FOOTER_LOGO = "![](https://www.dccx-digital.com/wp-content/uploads/2023/10/02_dccx-white.svg)";
@@ -93,6 +99,8 @@ const HOMEPAGE_CLIENT_ALIASES = {
 
 async function main() {
   const firecrawlPages = await loadFirecrawlPages();
+  const referencedUploadPaths = collectReferencedUploadPaths(firecrawlPages);
+  await syncReferencedUploads(referencedUploadPaths);
 
   const summaries = [];
   for (const page of firecrawlPages) {
@@ -117,6 +125,7 @@ async function main() {
 
   console.log(`Synced ${summaries.length} firecrawl pages into Hugo content.`);
   console.log(`Updated data files: navigation.yaml, team.yaml, services.yaml, clients.yaml`);
+  console.log(`Copied ${referencedUploadPaths.length} referenced uploads into ${relativeFromRoot(STATIC_UPLOADS_DIR)}.`);
 }
 
 function getPage(pages, routePath) {
@@ -141,7 +150,7 @@ async function loadFirecrawlPages() {
     const routePath = normalizeRoutePath(parsed.meta.url);
     const stripped = stripWrapper(parsed.body);
     const contentBody = routePath === "/" ? stripped : stripLeadingH1(stripped);
-    const cleanedBody = convertInternalLinks(contentBody).trim();
+    const cleanedBody = convertSiteHostLinks(contentBody).trim();
 
     pages.push({
       filePath,
@@ -230,14 +239,73 @@ function stripLeadingH1(body) {
   return body;
 }
 
-function convertInternalLinks(body) {
-  return body.replace(/\((https:\/\/www\.dccx-digital\.com\/[^)\s]+)\)/g, (fullMatch, urlValue) => {
-    const url = new URL(urlValue);
-    if (url.pathname.startsWith("/wp-content/") || url.pathname.startsWith("/wp-includes/")) {
+function convertSiteHostLinks(body) {
+  return body.replace(/https?:\/\/www\.dccx-digital\.com([^\s)"']*)/gi, (fullMatch, suffix) => {
+    if (suffix && !suffix.startsWith("/")) {
       return fullMatch;
     }
-    return `(${url.pathname}${url.search}${url.hash})`;
+    return suffix || "/";
   });
+}
+
+function collectReferencedUploadPaths(pages) {
+  const uploadPaths = new Set();
+  for (const page of pages) {
+    for (const match of page.cleanedBody.matchAll(/\/wp-content\/uploads\/[^\s)"']+/g)) {
+      uploadPaths.add(new URL(match[0], SITE_HOST).pathname);
+    }
+  }
+  return [...uploadPaths].sort();
+}
+
+async function syncReferencedUploads(uploadPaths) {
+  const missing = [];
+
+  for (const uploadPath of uploadPaths) {
+    const sourcePath = await resolveReferenceUploadPath(uploadPath);
+    if (!sourcePath) {
+      missing.push(uploadPath);
+      continue;
+    }
+
+    const targetPath = staticUploadPath(uploadPath);
+    if (path.resolve(sourcePath) !== path.resolve(targetPath)) {
+      await fs.mkdir(path.dirname(targetPath), { recursive: true });
+      await fs.copyFile(sourcePath, targetPath);
+    }
+  }
+
+  if (missing.length) {
+    throw new Error(`Missing referenced uploads:\n${missing.join("\n")}`);
+  }
+}
+
+async function resolveReferenceUploadPath(uploadPath) {
+  const segments = uploadPathSegments(uploadPath);
+  for (const baseDir of REFERENCE_UPLOAD_DIRS) {
+    const candidate = path.join(baseDir, ...segments);
+    try {
+      await fs.access(candidate);
+      return candidate;
+    } catch (error) {
+      if (!error || error.code !== "ENOENT") {
+        throw error;
+      }
+    }
+  }
+  return null;
+}
+
+function staticUploadPath(uploadPath) {
+  return path.join(STATIC_UPLOADS_DIR, ...uploadPathSegments(uploadPath));
+}
+
+function uploadPathSegments(uploadPath) {
+  return uploadPath
+    .replace(/^\/wp-content\/uploads\//, "")
+    .split("/")
+    .filter(Boolean)
+    .map((segment) => decodeURIComponent(segment));
 }
 
 function hugoContentPath(routePath) {

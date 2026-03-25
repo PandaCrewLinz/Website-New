@@ -62,79 +62,79 @@ Maßgeschneiderte App Entwicklung, einsetzbar in vielen Bereichen. Wir haben die
 
 #### Unsere Referenzen
 
-[![](https://www.dccx-digital.com/wp-content/uploads/2024/04/dccx_referenzen_bildstadt-1024x696.jpg)](http://www.bildstadt.at/)
+[![](/wp-content/uploads/2024/04/dccx_referenzen_bildstadt-1024x696.jpg)](http://www.bildstadt.at/)
 
 [www.bildstadt.at](http://www.bildstadt.at/)
 
-[![](https://www.dccx-digital.com/wp-content/uploads/2024/04/dccx_referenzen_pandocs-1024x696.jpg)](https://www.pandocs.com/)
+[![](/wp-content/uploads/2024/04/dccx_referenzen_pandocs-1024x696.jpg)](https://www.pandocs.com/)
 
 [www.pandocs.com](http://www.pandocs.com/)
 
-[![](https://www.dccx-digital.com/wp-content/uploads/2024/04/dccx_referenzen_siethom-1024x696.jpg)](https://www.siethomgroup.com/)
+[![](/wp-content/uploads/2024/04/dccx_referenzen_siethom-1024x696.jpg)](https://www.siethomgroup.com/)
 
 [www.siethomgroup.com](http://www.siethomgroup.com/)
 
-![Hartelo Norè](https://www.dccx-digital.com/wp-content/uploads/2026/03/Hartelo-Nore-300x176.png)
+![Hartelo Norè](/wp-content/uploads/2026/03/Hartelo-Nore-300x176.png)
 
-![Siethom](https://www.dccx-digital.com/wp-content/uploads/2026/03/Siethom-300x80.png)
+![Siethom](/wp-content/uploads/2026/03/Siethom-300x80.png)
 
-![pandocs_schriftzug_rot (1)](https://www.dccx-digital.com/wp-content/uploads/2026/03/pandocs_schriftzug_rot-1-300x69.png)
+![pandocs_schriftzug_rot (1)](/wp-content/uploads/2026/03/pandocs_schriftzug_rot-1-300x69.png)
 
-![bildstadt](https://www.dccx-digital.com/wp-content/uploads/2026/03/bildstadt-300x130.png)
+![bildstadt](/wp-content/uploads/2026/03/bildstadt-300x130.png)
 
-![aumayr](https://www.dccx-digital.com/wp-content/uploads/2026/03/aumayr.png)
+![aumayr](/wp-content/uploads/2026/03/aumayr.png)
 
-![Brau Union](https://www.dccx-digital.com/wp-content/uploads/2026/03/Brau-Union-300x135.webp)
+![Brau Union](/wp-content/uploads/2026/03/Brau-Union-300x135.webp)
 
-![intersport](https://www.dccx-digital.com/wp-content/uploads/2026/03/intersport-300x300.png)
+![intersport](/wp-content/uploads/2026/03/intersport-300x300.png)
 
-![VKB](https://www.dccx-digital.com/wp-content/uploads/2026/03/VKB.svg)
+![VKB](/wp-content/uploads/2026/03/VKB.svg)
 
-![carglass](https://www.dccx-digital.com/wp-content/uploads/2026/03/carglass-300x80.jpg)
+![carglass](/wp-content/uploads/2026/03/carglass-300x80.jpg)
 
-![Hervis_logo](https://www.dccx-digital.com/wp-content/uploads/2026/03/Hervis_logo.svg)
+![Hervis_logo](/wp-content/uploads/2026/03/Hervis_logo.svg)
 
-![Bildungszentrum Logistik GmbH & Co KG](https://www.dccx-digital.com/wp-content/uploads/2026/03/Bildungszentrum-Logistik-GmbH-Co-KG-300x300.webp)
+![Bildungszentrum Logistik GmbH & Co KG](/wp-content/uploads/2026/03/Bildungszentrum-Logistik-GmbH-Co-KG-300x300.webp)
 
-![löffler](https://www.dccx-digital.com/wp-content/uploads/2026/03/loeffler-300x300.png)
+![löffler](/wp-content/uploads/2026/03/loeffler-300x300.png)
 
-![two in a box](https://www.dccx-digital.com/wp-content/uploads/2026/03/two-in-a-box-300x150.jpg)
+![two in a box](/wp-content/uploads/2026/03/two-in-a-box-300x150.jpg)
 
-![Ziegler Musik & Technik](https://www.dccx-digital.com/wp-content/uploads/2026/03/Ziegler-Musik-Technik-300x155.png)
+![Ziegler Musik & Technik](/wp-content/uploads/2026/03/Ziegler-Musik-Technik-300x155.png)
 
-![Wirtschaftskammer_Österreich_logo](https://www.dccx-digital.com/wp-content/uploads/2026/03/Wirtschaftskammer_Oesterreich_logo.svg)
+![Wirtschaftskammer_Österreich_logo](/wp-content/uploads/2026/03/Wirtschaftskammer_Oesterreich_logo.svg)
 
-![swv](https://www.dccx-digital.com/wp-content/uploads/2026/03/swv-300x286.png)
+![swv](/wp-content/uploads/2026/03/swv-300x286.png)
 
-![kuchen peter](https://www.dccx-digital.com/wp-content/uploads/2026/03/kuchen-peter-300x300.webp)
+![kuchen peter](/wp-content/uploads/2026/03/kuchen-peter-300x300.webp)
 
-![Gefahrgutakademie Andreas Thürriedl](https://www.dccx-digital.com/wp-content/uploads/2026/03/Gefahrgutakademie-Andreas-Thuerriedl-300x127.png)
+![Gefahrgutakademie Andreas Thürriedl](/wp-content/uploads/2026/03/Gefahrgutakademie-Andreas-Thuerriedl-300x127.png)
 
-![Hofer Sonnenschutz](https://www.dccx-digital.com/wp-content/uploads/2026/03/Hofer-Sonnenschutz-300x63.png)
+![Hofer Sonnenschutz](/wp-content/uploads/2026/03/Hofer-Sonnenschutz-300x63.png)
 
-![Lipsum soft gmbh](https://www.dccx-digital.com/wp-content/uploads/2026/03/Lipsum-soft-gmbh-300x59.png)
+![Lipsum soft gmbh](/wp-content/uploads/2026/03/Lipsum-soft-gmbh-300x59.png)
 
-![rys it](https://www.dccx-digital.com/wp-content/uploads/2026/03/rys-it.png)
+![rys it](/wp-content/uploads/2026/03/rys-it.png)
 
-![Dr. Pumberger](https://www.dccx-digital.com/wp-content/uploads/2026/03/Dr.-Pumberger-300x67.png)
+![Dr. Pumberger](/wp-content/uploads/2026/03/Dr.-Pumberger-300x67.png)
 
-![Hartelo Norè](https://www.dccx-digital.com/wp-content/uploads/2026/03/Hartelo-Nore-300x176.png)
+![Hartelo Norè](/wp-content/uploads/2026/03/Hartelo-Nore-300x176.png)
 
-![Siethom](https://www.dccx-digital.com/wp-content/uploads/2026/03/Siethom-300x80.png)
+![Siethom](/wp-content/uploads/2026/03/Siethom-300x80.png)
 
-![pandocs_schriftzug_rot (1)](https://www.dccx-digital.com/wp-content/uploads/2026/03/pandocs_schriftzug_rot-1-300x69.png)
+![pandocs_schriftzug_rot (1)](/wp-content/uploads/2026/03/pandocs_schriftzug_rot-1-300x69.png)
 
-![bildstadt](https://www.dccx-digital.com/wp-content/uploads/2026/03/bildstadt-300x130.png)
+![bildstadt](/wp-content/uploads/2026/03/bildstadt-300x130.png)
 
-![aumayr](https://www.dccx-digital.com/wp-content/uploads/2026/03/aumayr.png)
+![aumayr](/wp-content/uploads/2026/03/aumayr.png)
 
-![Brau Union](https://www.dccx-digital.com/wp-content/uploads/2026/03/Brau-Union-300x135.webp)
+![Brau Union](/wp-content/uploads/2026/03/Brau-Union-300x135.webp)
 
-![intersport](https://www.dccx-digital.com/wp-content/uploads/2026/03/intersport-300x300.png)
+![intersport](/wp-content/uploads/2026/03/intersport-300x300.png)
 
-![VKB](https://www.dccx-digital.com/wp-content/uploads/2026/03/VKB.svg)
+![VKB](/wp-content/uploads/2026/03/VKB.svg)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photo_of_two_people_workingomputers-956x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photo_of_two_people_workingomputers-956x650.png)
 
 ## Bereit für den nächsten Schritt?
 
@@ -178,7 +178,7 @@ Mobile Solutions für viele Anwendungen. Wir entwickeln mobile Software-Lösunge
 
 [read more](/app-entwicklung/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/06/BBG_Partner-Siegel_RGB_RZ.png)
+![](/wp-content/uploads/2024/06/BBG_Partner-Siegel_RGB_RZ.png)
 
 ## Unser Tech Stack
 

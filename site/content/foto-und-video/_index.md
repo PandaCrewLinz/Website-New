@@ -14,7 +14,7 @@ show_tech_stack: false
 
 #### Alles aus einer Hand: Von Studioproduktionen bis hin zu Vor-Ort-Services und Contenterstellung für Ihre Website oder App.
 
-![Fotograf der ein Foto macht.](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-photography-scaled.jpg)
+![Fotograf der ein Foto macht.](/wp-content/uploads/2023/11/dccx-photography-scaled.jpg)
 
 ##### Industriefotografie – Ihr Partner für beeindruckende Einblicke in Ihre Produktionsstätten
 
@@ -38,13 +38,13 @@ Das **Fotografie-Team** steht Ihnen täglich von Mo – Do von 9:00 Uhr bis 17:0
 
 Gerne erarbeiten wir Ihnen auch ein unverbindliches Angebot.
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_industry-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_industry-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_chemiewerk-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_chemiewerk-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_industry-plant-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_industry-plant-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/photograph_of_a_wood_production_plant-650x650.png)
+![](/wp-content/uploads/2023/10/photograph_of_a_wood_production_plant-650x650.png)
 
 ##### Produktfotografie – wir fotografieren Produkte für Web, Kataloge und Onlineshops
 
@@ -58,13 +58,13 @@ Kontaktieren Sie uns noch heute, um mehr über unsere maßgeschneiderten Lösung
 
 [Kontaktieren](/kontakt/)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_of_a_bike-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_bike-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_kitchen-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_kitchen-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_glass-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_glass-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_chair-650x650.png)
+![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_chair-650x650.png)
 
 ##### KI basierte Fotografie – 1 Bild mehrfach animiert für viele Anwendungen
 
@@ -80,13 +80,13 @@ Insgesamt ist die _**KI-basierte Fotografie**_ eine aufregende Entwicklung, die 
 
 Für unsere Kunden nutzen wir die Möglichkeit, aus einem Bild, oder einer Bild-Idee, ein umfangreiches Composing zu schaffen. Der Kunde hat somit die Möglichkeit verschiedene Anwendungen im Marketing gleichzeitig zu bedienen. Ob im Einsatz für **Web, Print oder Social Media**. Gleichzeitig werden die Kosten für die Bilderstellung gesenkt.
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/11/modern-industry-hall-650x650.png)
+![](/wp-content/uploads/2023/11/modern-industry-hall-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/11/spaceship-in-a-hall-650x650.png)
+![](/wp-content/uploads/2023/11/spaceship-in-a-hall-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/11/spaceship-landing-650x650.png)
+![](/wp-content/uploads/2023/11/spaceship-landing-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2023/11/spaceship-landing-in-hall-650x650.png)
+![](/wp-content/uploads/2023/11/spaceship-landing-in-hall-650x650.png)
 
 Die Zukunft der Arbeit beginnt hier
 //
@@ -96,17 +96,17 @@ Die Zukunft der Arbeit beginnt hier
 
 ## Sorglos Pakete
 
-- ##### [1\. Foto](/foto-und-video//#qodef-tab-42c87ee)
+- ##### [1\. Foto](/foto-und-video/\#qodef-tab-42c87ee)
 
-- ##### [2\. Video](/foto-und-video//#qodef-tab-b2bdd93)
+- ##### [2\. Video](/foto-und-video/\#qodef-tab-b2bdd93)
 
-- ##### [3\. Foto & Video](/foto-und-video//#qodef-tab-cf91620)
+- ##### [3\. Foto & Video](/foto-und-video/\#qodef-tab-cf91620)
 
-- ##### [4\. Social Media I](/foto-und-video//#qodef-tab-0d3e430)
+- ##### [4\. Social Media I](/foto-und-video/\#qodef-tab-0d3e430)
 
-- ##### [5\. Social Media II](/foto-und-video//#qodef-tab-5f2bea1)
+- ##### [5\. Social Media II](/foto-und-video/\#qodef-tab-5f2bea1)
 
-- ##### [6\. Förderung](/foto-und-video//#qodef-tab-413f820)
+- ##### [6\. Förderung](/foto-und-video/\#qodef-tab-413f820)
 
 
 **100 bearbeitete Fotos in Ihrem neuen und individuellen Look**
@@ -202,13 +202,13 @@ Entdecken Sie die **Vorteile** von foto24studio:
 
 Besuchen Sie jetzt [foto24studio](http://www.foto24studio.com/) und wählen Sie Ihr Wunschshooting!
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/03/dccx-woman-650x650.png)
+![](/wp-content/uploads/2024/03/dccx-woman-650x650.png)
 
-![business portrait](https://www.dccx-digital.com/wp-content/uploads/2024/04/dccx007_business_portrait_man_accontant_-ar_11_-style_raw_d29cbe6d-3ad3-4f8e-9045-5dea4114047f_2-650x650.png)
+![business portrait](/wp-content/uploads/2024/04/dccx007_business_portrait_man_accontant_-ar_11_-style_raw_d29cbe6d-3ad3-4f8e-9045-5dea4114047f_2-650x650.png)
 
-![](https://www.dccx-digital.com/wp-content/uploads/2024/03/dccx-woman2-650x650.png)
+![](/wp-content/uploads/2024/03/dccx-woman2-650x650.png)
 
-![business portrait](https://www.dccx-digital.com/wp-content/uploads/2024/04/dccx007_business_portrait_accontant_-style_raw_afe90936-e46b-4000-be46-3823ec9ea87e_0-650x650.png)
+![business portrait](/wp-content/uploads/2024/04/dccx007_business_portrait_accontant_-style_raw_afe90936-e46b-4000-be46-3823ec9ea87e_0-650x650.png)
 
 ##### Fotoshooting auswählen
 
