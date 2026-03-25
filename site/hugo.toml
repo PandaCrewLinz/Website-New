@@ -1,4 +1,4 @@
-baseURL = "https://www.dccx-digital.com/"
+baseURL = "https://beta.dccx.it/"
 languageCode = "de"
 title = "dccx GmbH"
 defaultContentLanguage = "de"

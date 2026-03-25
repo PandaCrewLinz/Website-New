@@ -32,7 +32,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --minify --source site --baseURL "https://pandacrewlinz.github.io/Website-New/"
+        run: hugo --minify --source site --baseURL "https://beta.dccx.it/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
