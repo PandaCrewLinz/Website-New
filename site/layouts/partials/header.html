@@ -1,9 +1,9 @@
 <header class="site-header" id="site-header">
   <div class="header__container">
     {{/* Logo */}}
-    <a href="/" class="header__logo" aria-label="dccx GmbH - Startseite">
-      <img src="/images/logos/dccx-black.svg" alt="dccx GmbH" class="logo-dark">
-      <img src="/images/logos/dccx-white.svg" alt="dccx GmbH" class="logo-light">
+    <a href="{{ "" | relURL }}/" class="header__logo" aria-label="dccx GmbH - Startseite">
+      <img src="{{ "images/logos/dccx-black.svg" | relURL }}" alt="dccx GmbH" class="logo-dark">
+      <img src="{{ "images/logos/dccx-white.svg" | relURL }}" alt="dccx GmbH" class="logo-light">
     </a>
 
     {{/* Desktop Navigation */}}
@@ -11,19 +11,19 @@
       <ul class="nav-list">
         {{ range site.Data.navigation.main }}
         <li class="nav-item{{ if .children }} has-dropdown{{ end }}">
-          <a href="{{ .url }}" class="nav-link">{{ .name }}</a>
+          <a href="{{ .url | relLangURL }}" class="nav-link">{{ .name }}</a>
 
           {{ if .children }}
           <ul class="dropdown">
             {{ range .children }}
             <li class="dropdown-item{{ if .children }} has-sub-dropdown{{ end }}">
-              <a href="{{ .url }}" class="dropdown-link">{{ .name }}</a>
+              <a href="{{ .url | relLangURL }}" class="dropdown-link">{{ .name }}</a>
 
               {{ if .children }}
               <ul class="sub-dropdown">
                 {{ range .children }}
                 <li class="sub-dropdown-item">
-                  <a href="{{ .url }}" class="sub-dropdown-link">{{ .name }}</a>
+                  <a href="{{ .url | relLangURL }}" class="sub-dropdown-link">{{ .name }}</a>
                 </li>
                 {{ end }}
               </ul>
@@ -50,7 +50,7 @@
     <ul class="mobile-nav__list">
       {{ range site.Data.navigation.main }}
       <li class="mobile-nav__item{{ if .children }} has-children{{ end }}">
-        <a href="{{ .url }}" class="mobile-nav__link">{{ .name }}</a>
+        <a href="{{ .url | relLangURL }}" class="mobile-nav__link">{{ .name }}</a>
 
         {{ if .children }}
         <button class="mobile-nav__toggle" aria-label="Untermenü öffnen">
@@ -61,7 +61,7 @@
         <ul class="mobile-nav__sub">
           {{ range .children }}
           <li class="mobile-nav__sub-item{{ if .children }} has-children{{ end }}">
-            <a href="{{ .url }}" class="mobile-nav__sub-link">{{ .name }}</a>
+            <a href="{{ .url | relLangURL }}" class="mobile-nav__sub-link">{{ .name }}</a>
 
             {{ if .children }}
             <button class="mobile-nav__toggle" aria-label="Untermenü öffnen">
@@ -72,7 +72,7 @@
             <ul class="mobile-nav__sub">
               {{ range .children }}
               <li class="mobile-nav__sub-item">
-                <a href="{{ .url }}" class="mobile-nav__sub-link">{{ .name }}</a>
+                <a href="{{ .url | relLangURL }}" class="mobile-nav__sub-link">{{ .name }}</a>
               </li>
               {{ end }}
             </ul>

@@ -4,13 +4,13 @@
       {{/* First set of logos */}}
       {{ range site.Data.clients }}
       <div class="logo-track__item">
-        <img src="{{ .logo }}" alt="{{ .name }}" loading="eager">
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="eager">
       </div>
       {{ end }}
       {{/* Duplicate set for seamless infinite scroll */}}
       {{ range site.Data.clients }}
       <div class="logo-track__item">
-        <img src="{{ .logo }}" alt="{{ .name }}" loading="eager">
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="eager">
       </div>
       {{ end }}
     </div>
