@@ -4,7 +4,7 @@ description: "dccx – Werbe- und Digitalagentur aus Linz. Markenkenner, Online 
 layout: "single"
 show_hero: true
 show_values_row: false
-show_marquee: false
+show_marquee: true
 show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false

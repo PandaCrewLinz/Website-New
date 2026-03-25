@@ -4,11 +4,11 @@ description: "Microsoft Solutions von dccx - Individuelle Software fur Office 36
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -146,37 +146,3 @@ Dynamics 365 lässt sich mit einer Vielzahl von Systemen verbinden, darunter:
 - **CRM-Systeme anderer Anbieter**
 
 **Gerne beraten wir Sie individuell und erstellen ein maßgeschneidertes Konzept für die Automatisierung und Anbindung Ihres Dynamics 365-Systems.**
-
-##### Bereit, loszulegen?
-
-Kontaktieren Sie uns noch heute, um mehr über unsere maßgefertigten Microsoft Softwarelösungen zu erfahren. Gemeinsam setzen wir Ihre Ideen und Vorstellungen in die Realität um – bei dccx!
-
-[Kontaktieren](/kontakt/)
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Herausfordern
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Haben Sie Fragen zu Design, Funktionen oder Kosten einer individual Software? Oder möchten Sie uns Ihre Ideen mitteilen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

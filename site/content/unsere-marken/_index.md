@@ -3,11 +3,11 @@ title: "Unsere Marken"
 description: "Die Marken der dccx GmbH - Bildstadt, Say Cheeze, Foto24Studio, Pandocs und prenudge."
 layout: "single"
 show_hero: true
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -64,31 +64,3 @@ pandocs ist eine Gesundheits und Lifestyle App, die Nutzer spielerisch zu mehr F
 Zur Website: [Link](https://www.pandocs.com/de/)
 
 ![](/wp-content/uploads/2026/01/Pandocs_Logo-1024x210.png)
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Sie haben Fragen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

@@ -2,9 +2,10 @@ const puppeteer = require("puppeteer");
 const path = require("path");
 const fs = require("fs");
 
-const BASE = "https://beta.dccx.it";
+const BASE = process.env.SCREENSHOT_BASE || "https://beta.dccx.it";
 
 const URLS = [
+  // Main pages
   `${BASE}`,
   `${BASE}/our-services`,
   `${BASE}/app-entwicklung`,
@@ -25,11 +26,20 @@ const URLS = [
   `${BASE}/team`,
   `${BASE}/unsere-marken`,
   `${BASE}/offene-stellen`,
-  `${BASE}/merchandise`,
+  `${BASE}/merch-2`,
   `${BASE}/blog`,
   `${BASE}/kontakt`,
   `${BASE}/impressum`,
   `${BASE}/datenschutz`,
+  // Category pages (matching reference screenshots)
+  `${BASE}/clients-category/app-home`,
+  `${BASE}/clients-category/clients-page`,
+  `${BASE}/clients-category/main-home`,
+  `${BASE}/clients-category/split-home`,
+  `${BASE}/team-category/main-home`,
+  `${BASE}/testimonials-category/black-home`,
+  // Sitemaps
+  `${BASE}/sitemap.xml`,
 ];
 
 const OUTPUT_DIR = path.join(__dirname, "source", "screenshots-new");
@@ -98,10 +108,12 @@ async function main() {
       // Scroll to trigger lazy-loaded content
       await autoScrollToBottom(page);
 
-      // Pause CSS animations for stable screenshot
+      // Pause CSS animations for stable screenshot (skip for XML pages)
       await page.evaluate(() => {
         document.querySelectorAll("*").forEach((el) => {
-          el.style.animationPlayState = "paused";
+          if (el.style) {
+            el.style.animationPlayState = "paused";
+          }
         });
       });
 

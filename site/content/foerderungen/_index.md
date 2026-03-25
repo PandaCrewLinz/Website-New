@@ -4,7 +4,7 @@ description: "Aktuelle Förderungen und Förderprogramme für Digitalisierung - 
 layout: "single"
 show_hero: false
 show_values_row: false
-show_marquee: false
+show_marquee: true
 marquee_text: "Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need"
 show_mehr_infos: false
 show_cta_bar: false

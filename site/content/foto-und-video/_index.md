@@ -5,7 +5,7 @@ layout: "single"
 show_hero: true
 hero_image: ""
 show_values_row: false
-show_marquee: false
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
 show_mehr_infos: false
 show_cta_bar: false
@@ -52,12 +52,6 @@ Die _**Produktfotografie**_ nimmt einen herausragenden Stellenwert innerhalb der
 
 Eine herausragende Präsentation des Produkts verleiht ihm den letzten Schliff und beeindruckt potenzielle Kunden nachhaltig. Unsere **Produktfotografen** bringen nicht nur technisches Fachwissen, sondern auch ein ausgeprägtes Auge für Details und jahrelange Erfahrung mit, was sich in jedem Bild widerspiegelt. Mit **modernster Studiotechnik** und maßgeschneiderten Beleuchtungstechniken rücken wir Ihr Produkt ins Rampenlicht und sorgen dafür, dass es im wahrsten Sinne des Wortes „groß rauskommt“. Wir stehen Ihnen zur Verfügung, um hochwertige Bilder für Ihren Online-Shop zu erstellen.
 
-##### Bereit, loszulegen?
-
-Kontaktieren Sie uns noch heute, um mehr über unsere maßgeschneiderten Lösungen zu erfahren. Gemeinsam rücken wir Ihre Wünsche ins beste Licht – bei dccx!
-
-[Kontaktieren](/kontakt/)
-
 ![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_bike-650x650.png)
 
 ![](/wp-content/uploads/2023/10/dccx007_photograph_of_a_modern_kitchen-650x650.png)
@@ -87,13 +81,6 @@ Für unsere Kunden nutzen wir die Möglichkeit, aus einem Bild, oder einer Bild-
 ![](/wp-content/uploads/2023/11/spaceship-landing-650x650.png)
 
 ![](/wp-content/uploads/2023/11/spaceship-landing-in-hall-650x650.png)
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
 ## Sorglos Pakete
 
 - ##### [1\. Foto](/foto-und-video/\#qodef-tab-42c87ee)
@@ -177,13 +164,6 @@ Digitalisierung ist der Schlüssel zum Erfolg im modernen Geschäftsleben. Doch 
 Nutzen Sie diese einmalige Gelegenheit und lassen Sie sich von unseren Experten kostenlos beraten, welche Förderung zu Ihnen passt!
 
 [Zu unseren Social Media Leistungen](/social-media-marketing/)
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
 #### Magische Fotoerlebnisse für die ganze Familie
 
 Fotografie für jeden **Anlass** – jetzt noch einfacher buchen!

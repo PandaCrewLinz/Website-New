@@ -4,13 +4,13 @@ description: "Maßgeschneiderte App-Entwicklung für iOS und Android. Native, Hy
 layout: "single"
 show_hero: true
 hero_image: "/images/illustrations/app-entwicklung.png"
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
+show_mehr_infos: true
 mehr_infos_text: "Haben Sie Fragen zu Design, Funktionen oder Kosten einer App? Oder möchten Sie uns Ihre Ideen für Ihre Traumapp mitteilen?"
-show_cta_bar: false
-show_tech_stack: false
+show_cta_bar: true
+show_tech_stack: true
 values_erfahrung: "Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert."
 values_kreativitaet: "Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben."
 values_individueller_ansatz: "Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen."
@@ -47,52 +47,6 @@ Unsere Designer erstellen ein ansprechendes UI/UX-Design, das nicht nur ästheti
 Unsere Entwickler setzen die Designs in Code um und führen umfassende Tests durch, um sicherzustellen, dass die App einwandfrei funktioniert und allen Qualitätsstandards entspricht.
 
 Wir arbeiten eng mit Ihnen zusammen, um Feedback zu berücksichtigen und sicherzustellen, dass Ihre App perfekt ist, bevor sie veröffentlicht wird.
-
-##### Bereit, loszulegen?
-
-Kontaktieren Sie uns noch heute, um mehr über unsere maßgefertigten Softwarelösungen zu erfahren. Gemeinsam setzen wir Ihre Ideen und Vorstellungen in die Realität um – bei dccx!
-
-[Kontaktieren](/kontakt/)
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Unser Tech Stack:
-
-- Swift
-- C#
-- Java
-- Angular
-- React
-- WordPress
-- TYPO3
-- Flutter
-
-## Mehr Infos
-
-Haben Sie Fragen zu Design, Funktionen oder Kosten einer App? Oder möchten Sie uns Ihre Ideen für Ihre Traumapp mitteilen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)
-
 ### **Mit der richtigen App zum Erfolg: Die entscheidenden Fragen**
 
 - ##### [1\. Ziel und Zweck der App](/app-entwicklung/\#qodef-tab-903cc43)

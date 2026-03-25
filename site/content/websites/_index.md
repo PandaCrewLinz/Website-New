@@ -4,11 +4,11 @@ description: "Professionelle Websites von dccx - Webdesign, Entwicklung, respons
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -83,12 +83,6 @@ Bei DccX ist unser Ziel, den Prozess der Website-Erstellung transparent, effizie
 
 Kontaktieren Sie uns noch heute, um mehr über unsere Dienstleistungen zu erfahren und wie wir Ihnen helfen können, Ihre digitale Präsenz zu optimieren. Gemeinsam schaffen wir eine Website, die Ihre Ziele übertrifft und Ihre Zielgruppe begeistert.
 
-##### Bereit, loszulegen?
-
-Haben Sie Fragen zu Design, Funktionen oder Kosten einer Website? Oder möchten Sie uns Ihre Ideen für Ihre Traumwebsite mitteilen?
-
-[Kontaktieren](/kontakt/)
-
 ## Wichtige Aspekte für eine gute Website
 
 Eine gute Website ist ein wichtiger Bestandteil Ihrer Online-Präsenz und kann maßgeblich zum Erfolg Ihres Unternehmens oder Projekts beitragen. Es ist wichtig, diese Aspekte bei der Entwicklung und Pflege Ihrer Website im Auge zu behalten.
@@ -118,31 +112,3 @@ Eine gute Website ist ein wichtiger Bestandteil Ihrer Online-Präsenz und kann m
 **Design und Ästhetik:** Das Design sollte professionell, ansprechend und auf Ihr Publikum zugeschnitten sein. Ein sauberes, attraktives Layout und eine konsistente visuelle Identität sind wichtig.
 
 **Aktualität:** Halten Sie Ihre Website aktuell, indem Sie regelmäßig neuen Inhalt hinzufügen und veraltete Informationen entfernen. Dies zeigt, dass Ihre Website aktiv betreut wird.
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Haben Heben Sie Ihre Website auf das nächste Level – kontaktieren Sie uns noch heute - dccx!
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

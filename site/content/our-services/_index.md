@@ -64,13 +64,6 @@ Wir sind Ihr Spezialist für High-End-Websites und bieten ein Maximum an User Ex
 [Kontakt](/kontakt/)
 
 ![](/wp-content/uploads/2023/10/06_dccx-symbol-outline-white.png)
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
 ## Mehr Infos
 
 Interessieren Sie sich für unsere Leistungen? Oder haben Sie schon konkrete Vorstellungen?

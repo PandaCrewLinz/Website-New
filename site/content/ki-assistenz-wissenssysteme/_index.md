@@ -4,11 +4,11 @@ description: "KI-gestutzte Assistenz- und Wissenssysteme von dccx - Masgeschneid
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -123,14 +123,6 @@ Lassen Sie uns gemeinsam besprechen, wie wir Ihr Unternehmen mit KI-gestützten 
 - **[Schreiben Sie uns Ihre Anforderungen](/ki-assistenz-wissenssysteme/#)**
 - **Profitieren Sie von unserer Expertise**
 
-##### Bereit, loszulegen?
-
-Lassen Sie unsere KI die Routinearbeit übernehmen, damit Sie sich auf das Wesentliche konzentrieren können: Ihr Geschäftswachstum.
-
-Starten Sie jetzt und erleben Sie, wie einfach und effizient moderne Telefonassistenz sein kann. Kontaktieren Sie uns für eine kostenlose Demo!
-
-[Kontaktieren](/kontakt/)
-
 ##### Prozent
 
 In einer Studie der Boston Consulting Group konnte gezeigt werden, dass die Künstliche Intelligenz die Leistung um bis zu 40 Prozent steigern kann und schließt die Lücke zwischen den schwächeren und stärkeren.
@@ -146,31 +138,3 @@ In einer Studie der Boston Consulting Group konnte gezeigt werden, dass die Kün
 **Langfristige Partnerschaft:** Wir sind nicht nur Dienstleister, sondern Ihr langfristiger Partner auf dem Weg zur erfolgreichen Digitalisierung.
 
 Machen Sie den ersten Schritt in Richtung einer effizienteren und wettbewerbsfähigeren Zukunft. Kontaktieren Sie uns heute, um mehr darüber zu erfahren, wie dccx Ihnen dabei helfen kann, Ihre Mitarbeiter zu entlasten und Ihr Unternehmen zu transformieren.
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Haben Sie Fragen zu den Einsatzmöglichkeiten von KI in Ihrem Unternehmen? Oder möchten Sie uns Ihre konkreten Ziele für eine KI-Beratung nennen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

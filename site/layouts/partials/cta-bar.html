@@ -1,13 +1,8 @@
 {{- $text := .text | default "Lassen Sie uns gemeinsam Ihre digitale Zukunft gestalten." -}}
 {{- $buttonText := .buttonText | default "Kontakt aufnehmen" -}}
 <section class="cta-bar">
-  <div class="cta-bar__container">
-    <div class="cta-bar__content">
-      <h2 class="cta-bar__heading">Bereit, loszulegen?</h2>
-      <p class="cta-bar__text">{{ $text }}</p>
-    </div>
-    <div class="cta-bar__action">
-      <a href="{{ "kontakt/" | relURL }}" class="cta-bar__button">{{ $buttonText }}</a>
-    </div>
+  <div class="cta-bar__inner">
+    <p class="cta-bar__text"><strong>Bereit, loszulegen?</strong> {{ $text }}</p>
+    <a href="{{ "kontakt/" | relURL }}" class="cta-bar__button">{{ $buttonText }}</a>
   </div>
 </section>

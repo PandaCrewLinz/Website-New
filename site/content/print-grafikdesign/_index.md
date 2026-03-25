@@ -4,11 +4,11 @@ description: "Print und Grafikdesign von dccx - Printdesign, UI/UX-Design, Corpo
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -50,37 +50,3 @@ Siethom Imagefolder
 ![](/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_2-1024x819.jpg)
 
 ![](/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_1-1024x819.gif)
-
-##### Bereit, loszulegen?
-
-Unser erfahrenes Team steht bereit, um Ihre visuelle Identität zu stärken und Ihr Unternehmen zum Erfolg zu führen. Kontaktieren Sie uns heute, um zu erfahren, wie wir Ihre Vision verwirklichen können!
-
-[Kontaktieren](/kontakt/)
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Haben Sie schon konkrete Vorstellungen für Ihr Projekt? Oder möchten Sie sich lieber umfassend beraten lassen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

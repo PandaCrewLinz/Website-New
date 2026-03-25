@@ -4,7 +4,7 @@ description: "Bist du ein echter dccx-Fan und möchtest deine Leidenschaft für 
 layout: "single"
 show_hero: false
 show_values_row: false
-show_marquee: false
+show_marquee: true
 show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false
@@ -70,9 +70,3 @@ Kein Problem! In unserem Shop findest du auch coole Designs, die einfach nur Spa
 Jetzt zum Shop & Fan-Welt entdecken!
 
 [Shop](https://dccx.myspreadshop.it/)
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//

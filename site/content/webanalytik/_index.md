@@ -4,11 +4,11 @@ description: "Webanalytik und Conversion-Optimierung von dccx - Datenbasierte An
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 ---
 
@@ -58,15 +58,3 @@ Unsere Arbeit basiert auf Daten und Fakten. Wir legen großen Wert darauf, unser
 ### Partnerschaftliche Zusammenarbeit
 
 Wir sehen uns nicht nur als Dienstleister, sondern als langfristiger Partner für Ihren digitalen Erfolg. Gemeinsam gehen wir die Extra-Meile, um Ihre Erwartungen zu übertreffen.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-## Mehr Infos
-
-Haben Sie schon konkrete Vorstellungen für Ihr Projekt? Oder möchten Sie sich lieber umfassend beraten lassen?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

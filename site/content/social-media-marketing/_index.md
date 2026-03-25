@@ -4,11 +4,11 @@ description: "Professionelles Social Media Marketing von dccx. Sorglos Pakete f�
 layout: "single"
 show_hero: true
 hero_image: "/images/illustrations/social-media-marketing.png"
-show_values_row: false
-show_marquee: false
+show_values_row: true
+show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
-show_cta_bar: false
+show_mehr_infos: true
+show_cta_bar: true
 show_tech_stack: false
 values_erfahrung: "Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde Social Media Landschaft meistert."
 values_kreativitaet: "Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben."
@@ -109,35 +109,6 @@ Wir kümmern uns um alles, von der Content-Erstellung bis zum Community-Manageme
 Digitalisierung ist der Schlüssel zum Erfolg im modernen Geschäftsleben. Doch die Umsetzung digitaler Projekte kann für kleine und mittlere Unternehmen (KMUs) eine finanzielle Herausforderung sein. Die gute Nachricht: Die Wirtschaftskammer (WKO) fördert jetzt die Digitalisierung von KMUs mit bis zu 40% der Kosten!
 
 Nutzen Sie diese einmalige Gelegenheit und lassen Sie sich von unseren Experten kostenlos beraten, welche Förderung zu Ihnen passt!
-
-##### Bereit, loszulegen?
-
-Kontaktieren Sie uns noch heute, um mehr über unsere maßgeschneiderten Social Media Marketing Lösungen zu erfahren. Gemeinsam bringen wir Ihre Marke in den sozialen Medien zum Strahlen – bei dccx!
-
-[Kontaktieren](/kontakt/)
-
-### Erfahrung
-
-Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde Social Media Landschaft meistert.
-
-### Kreativität
-
-Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
-
-### Individueller Ansatz
-
-Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
-
-### Ergebnis Fokussiert
-
-Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Social Media Präsenz in echte Geschäftsergebnisse zu verwandeln.
-
-Die Zukunft der Arbeit beginnt hier
-//
-
-Die Zukunft der Arbeit beginnt hier
-//
-
 #### **Unser Leistungsangebot**
 
 - ##### [1\. Strategische Planung](/social-media-marketing/\#qodef-tab-42c87ee)
@@ -164,9 +135,3 @@ Gezielte Werbeanzeigen helfen dabei, Ihre Reichweite zu erhöhen und potenzielle
 Wir überlassen nichts dem Zufall. Durch kontinuierliche Analyse der Leistung Ihrer Social Media Aktivitäten identifizieren wir Stärken und Schwächen und passen unsere Strategien entsprechend an.
 
 Ihre Investition in Social Media wie Facebook, Instagram, TikTok, LinkedIn, youtube, etc. soll maximale Ergebnisse erzielen. Wir überwachen und optimieren kontinuierlich Ihr Budget, um sicherzustellen, dass Sie den besten Wert erhalten.
-
-## Mehr Infos
-
-Haben Sie schon ein konkretes Ziel für Ihr Projekt? Oder möchten Sie sich lieber umfassend beraten lassen und gemeinsam mit uns die beste Lösung finden?
-
-[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)
