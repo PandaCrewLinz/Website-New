@@ -27,6 +27,10 @@
   </div>
 </section>
 
+{{- if .Params.show_merch_carousel }}
+  {{- partial "merch-carousel.html" . -}}
+{{- end }}
+
 {{- if .Params.show_cta_bar }}
   {{- partial "cta-bar.html" (dict "heading" (.Params.cta_heading | default "Bereit, loszulegen?") "text" (.Params.cta_text | default "Lassen Sie uns gemeinsam Ihre digitale Zukunft gestalten.") "buttonText" (.Params.cta_button_text | default "Kontakt aufnehmen") "url" (.Params.cta_url | default ("kontakt/" | relURL))) -}}
 {{- end }}

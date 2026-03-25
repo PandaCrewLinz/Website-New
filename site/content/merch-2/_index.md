@@ -6,6 +6,7 @@ show_hero: false
 show_values_row: false
 show_marquee: true
 show_mehr_infos: false
+show_merch_carousel: true
 show_cta_bar: true
 cta_heading: "Dein neues Lieblingsstück wartet auf dich"
 cta_text: "Jetzt zum Shop & Fan-Welt entdecken!"
@@ -41,11 +42,4 @@ Besuche jetzt unseren Onlineshop oder eine unserer Filialen und entdecke die Vie
 
 Kein Problem! In unserem Shop findest du auch coole Designs, die einfach nur Spaß machen. Stöbere einfach durch unser Sortiment und lass dich inspirieren!
 
-#### Unser Merchandise
-
-<div class="merch-grid">
-<img src="/wp-content/uploads/2024/02/merch7-150x150.jpg" alt="dccx Merchandise">
-<img src="/wp-content/uploads/2024/02/merch-8-150x150.jpg" alt="dccx Merchandise">
-<img src="/wp-content/uploads/2024/02/merch5-150x150.jpg" alt="dccx Merchandise">
-</div>
 
