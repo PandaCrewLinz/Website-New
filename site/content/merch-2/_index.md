@@ -6,7 +6,11 @@ show_hero: false
 show_values_row: false
 show_marquee: true
 show_mehr_infos: false
-show_cta_bar: false
+show_cta_bar: true
+cta_heading: "Dein neues Lieblingsstück wartet auf dich"
+cta_text: "Jetzt zum Shop & Fan-Welt entdecken!"
+cta_button_text: "Shop"
+cta_url: "https://dccx.myspreadshop.it/"
 show_tech_stack: false
 ---
 
@@ -37,36 +41,11 @@ Besuche jetzt unseren Onlineshop oder eine unserer Filialen und entdecke die Vie
 
 Kein Problem! In unserem Shop findest du auch coole Designs, die einfach nur Spaß machen. Stöbere einfach durch unser Sortiment und lass dich inspirieren!
 
-#### **Unser Merchandise**
+#### Unser Merchandise
 
-![merch7](/wp-content/uploads/2024/02/merch7-150x150.jpg)
+<div class="merch-grid">
+<img src="/wp-content/uploads/2024/02/merch7-150x150.jpg" alt="dccx Merchandise">
+<img src="/wp-content/uploads/2024/02/merch-8-150x150.jpg" alt="dccx Merchandise">
+<img src="/wp-content/uploads/2024/02/merch5-150x150.jpg" alt="dccx Merchandise">
+</div>
 
-![merch 8](/wp-content/uploads/2024/02/merch-8-150x150.jpg)
-
-![merch5](/wp-content/uploads/2024/02/merch5-150x150.jpg)
-
-![merch 4](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
-
-![merch3](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
-
-![merch 2](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
-
-![merch 1](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-3-150x150.jpg)
-
-![merch7](/wp-content/uploads/2024/02/merch7-150x150.jpg)
-
-![merch 8](/wp-content/uploads/2024/02/merch-8-150x150.jpg)
-
-![merch5](/wp-content/uploads/2024/02/merch5-150x150.jpg)
-
-![merch 4](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-150x150.jpg)
-
-![merch3](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-1-150x150.jpg)
-
-![merch 2](/wp-content/uploads/2024/02/entdecke-einzigartige-merchartikel-von-dccx-deiner-digitalen-agentur-fuer-kreative-innovationen-hochwertige-designs-exklusiv-fuer-dich-stilvoll-mo-2-150x150.jpg)
-
-##### Dein neues Lieblingsstück wartet auf dich
-
-Jetzt zum Shop & Fan-Welt entdecken!
-
-[Shop](https://dccx.myspreadshop.it/)

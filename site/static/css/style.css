@@ -865,3 +865,7 @@ img.references__image { width: 100%; aspect-ratio: 3/2; object-fit: cover; margi
   .marquee-content { font-size: 28px; }
   .tech-stack__subtitle { font-size: 1.5rem; }
 }
+
+/* Merchandise grid */
+.merch-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; max-width: 700px; margin: 40px auto; }
+.merch-grid img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; }
