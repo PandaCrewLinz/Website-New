@@ -1,12 +1,11 @@
 ---
 title: "Team"
-description: "Lernen Sie das Team der dccx GmbH kennen. Erfahrene Experten für digitale Lösungen."
+description: "dccx – Werbe- und Digitalagentur aus Linz. Markenkenner, Online Marketing Enthusiasten, Designliebhaber und Programmierjunkies - das Team"
 layout: "team"
 show_hero: true
-show_values_row: true
-show_marquee: true
-marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
+show_values_row: false
+show_marquee: false
+show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false
 ---
@@ -15,4 +14,6 @@ show_tech_stack: false
 
 Wir sind ein vielseitiges Team aus Entwicklern, Designern, Beratern und Kreativen, die gemeinsam an innovativen digitalen Lösungen arbeiten. Bei dccx verbinden wir technisches Know-how mit kreativem Denken und einem klaren Fokus auf die Bedürfnisse unserer Kunden.
 
-Unser Antrieb: Transparenz, Fairness und individuelle Betreuung. Wir nehmen uns Zeit für jedes Projekt und jeden Kunden -- denn nur so entstehen Lösungen, die wirklich passen.
+## Digitalagentur Linz
+
+Als Digitalagentur aus Linz entwickeln wir maßgeschneiderte Lösungen für Unternehmen jeder Größe. Von Webdesign und Programmierung über Online Marketing bis hin zu Fotografie und Videoproduktion -- unser Team vereint alle Kompetenzen unter einem Dach. Wir begleiten unsere Kunden von der ersten Idee bis zur fertigen Umsetzung und darüber hinaus.
