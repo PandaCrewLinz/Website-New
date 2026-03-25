@@ -1,0 +1,18 @@
+<section class="client-logos">
+  <div class="logo-carousel">
+    <div class="logo-track">
+      {{/* First set of logos */}}
+      {{ range site.Data.clients }}
+      <div class="logo-track__item">
+        <img src="{{ .logo }}" alt="{{ .name }}" loading="eager">
+      </div>
+      {{ end }}
+      {{/* Duplicate set for seamless infinite scroll */}}
+      {{ range site.Data.clients }}
+      <div class="logo-track__item">
+        <img src="{{ .logo }}" alt="{{ .name }}" loading="eager">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

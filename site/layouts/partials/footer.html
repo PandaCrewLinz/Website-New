@@ -1,0 +1,67 @@
+<footer class="site-footer">
+  <div class="footer__container">
+
+    {{/* Column 1: Logo & Company */}}
+    <div class="footer__col footer__col--brand">
+      <a href="/" class="footer__logo">
+        <img src="/images/logos/dccx-white.svg" alt="dccx GmbH">
+      </a>
+      <p class="footer__company-name">{{ site.Params.companyName }}</p>
+      <a href="mailto:{{ site.Params.email }}" class="footer__email">{{ site.Params.email }}</a>
+    </div>
+
+    {{/* Column 2: Info */}}
+    <div class="footer__col footer__col--info">
+      <h4 class="footer__heading">Info</h4>
+      <address class="footer__address">
+        <p>{{ site.Params.address }}</p>
+        <p>{{ site.Params.zip }} {{ site.Params.city }}</p>
+      </address>
+      <ul class="footer__contact-list">
+        <li>
+          <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>
+        </li>
+        <li>
+          <a href="tel:{{ site.Params.phone | replaceRE `\\s` `` }}">{{ site.Params.phoneDisplay }}</a>
+        </li>
+        <li>
+          <span>Mo-Do: {{ site.Params.hoursMoTh }}</span>
+        </li>
+        <li>
+          <span>Fr: {{ site.Params.hoursFr }}</span>
+        </li>
+      </ul>
+    </div>
+
+    {{/* Column 3: Leistungen */}}
+    <div class="footer__col footer__col--services">
+      <h4 class="footer__heading">Leistungen</h4>
+      <ul class="footer__link-list">
+        {{ range site.Data.navigation.footer_services }}
+        <li>
+          <a href="{{ .url }}">{{ .name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    {{/* Column 4: Kontakt */}}
+    <div class="footer__col footer__col--contact">
+      <h4 class="footer__heading">Kontakt</h4>
+      <ul class="footer__link-list">
+        {{ range site.Data.navigation.footer_contact }}
+        <li>
+          <a href="{{ .url }}">{{ .name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="footer__bottom">
+    <div class="footer__container">
+      <p class="footer__copyright">&copy; {{ now.Year }} {{ site.Params.companyName }}. Alle Rechte vorbehalten.</p>
+    </div>
+  </div>
+</footer>

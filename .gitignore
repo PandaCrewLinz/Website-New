@@ -1,0 +1,36 @@
+# Hugo build output
+site/public/
+site/resources/
+
+# Node
+node_modules/
+package-lock.json
+
+# Source reference data (large, not needed for build)
+source/
+
+# Hugo lock
+site/.hugo_build.lock
+
+# Dev/build scripts not needed for site
+take-screenshots.js
+package.json
+
+# Puppeteer screenshots (dev only)
+screenshot*.png
+
+# Debug scripts
+debug.mjs
+screenshot*.mjs
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude local
+.claude/

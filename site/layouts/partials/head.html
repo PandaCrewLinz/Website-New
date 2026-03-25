@@ -1,0 +1,27 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ .Title }} - dccx GmbH</title>
+
+{{- $description := .Params.description | default site.Params.description -}}
+<meta name="description" content="{{ $description }}">
+
+{{/* Google Fonts: Orbitron (headings) + Poppins (body) */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;900&family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+{{/* Main stylesheet */}}
+<link rel="stylesheet" href="/css/style.css">
+
+{{/* Favicon */}}
+<link rel="icon" href="/images/logos/favicon.ico" type="image/x-icon">
+
+{{/* Open Graph */}}
+<meta property="og:title" content="{{ .Title }} - dccx GmbH">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with .Params.hero_image }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ end }}

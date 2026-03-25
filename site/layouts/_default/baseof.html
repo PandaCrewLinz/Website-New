@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "de" }}">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body>
+  {{- partial "header.html" . -}}
+
+  <main id="content">
+    {{- block "main" . }}
+    {{- end }}
+  </main>
+
+  {{- partial "footer.html" . -}}
+  {{- partial "cookie-banner.html" . -}}
+
+  <script src="/js/main.js" defer></script>
+</body>
+</html>

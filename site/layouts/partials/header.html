@@ -1,0 +1,88 @@
+<header class="site-header" id="site-header">
+  <div class="header__container">
+    {{/* Logo */}}
+    <a href="/" class="header__logo" aria-label="dccx GmbH - Startseite">
+      <img src="/images/logos/dccx-black.svg" alt="dccx GmbH" class="logo-dark">
+      <img src="/images/logos/dccx-white.svg" alt="dccx GmbH" class="logo-light">
+    </a>
+
+    {{/* Desktop Navigation */}}
+    <nav class="desktop-nav" aria-label="Hauptnavigation">
+      <ul class="nav-list">
+        {{ range site.Data.navigation.main }}
+        <li class="nav-item{{ if .children }} has-dropdown{{ end }}">
+          <a href="{{ .url }}" class="nav-link">{{ .name }}</a>
+
+          {{ if .children }}
+          <ul class="dropdown">
+            {{ range .children }}
+            <li class="dropdown-item{{ if .children }} has-sub-dropdown{{ end }}">
+              <a href="{{ .url }}" class="dropdown-link">{{ .name }}</a>
+
+              {{ if .children }}
+              <ul class="sub-dropdown">
+                {{ range .children }}
+                <li class="sub-dropdown-item">
+                  <a href="{{ .url }}" class="sub-dropdown-link">{{ .name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+
+    {{/* Mobile Toggle */}}
+    <button class="mobile-toggle" id="mobile-toggle" aria-label="Navigation umschalten" aria-expanded="false">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+  </div>
+
+  {{/* Mobile Navigation Overlay */}}
+  <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile Navigation">
+    <ul class="mobile-nav__list">
+      {{ range site.Data.navigation.main }}
+      <li class="mobile-nav__item{{ if .children }} has-children{{ end }}">
+        <a href="{{ .url }}" class="mobile-nav__link">{{ .name }}</a>
+
+        {{ if .children }}
+        <button class="mobile-nav__toggle" aria-label="Untermenü öffnen">
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+            <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <ul class="mobile-nav__sub">
+          {{ range .children }}
+          <li class="mobile-nav__sub-item{{ if .children }} has-children{{ end }}">
+            <a href="{{ .url }}" class="mobile-nav__sub-link">{{ .name }}</a>
+
+            {{ if .children }}
+            <button class="mobile-nav__toggle" aria-label="Untermenü öffnen">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+            <ul class="mobile-nav__sub">
+              {{ range .children }}
+              <li class="mobile-nav__sub-item">
+                <a href="{{ .url }}" class="mobile-nav__sub-link">{{ .name }}</a>
+              </li>
+              {{ end }}
+            </ul>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

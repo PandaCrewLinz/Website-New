@@ -1,0 +1,348 @@
+{{ define "main" }}
+
+{{/* ========================================
+     Section 1: Hero Slider (4 slides, crossfade)
+     Full-viewport height, Orbitron titles, Poppins subtitles
+     Original: Slider Revolution with 4 slides
+     ======================================== */}}
+<section class="hero-slider" id="hero-slider">
+  <div class="hero-slider__slides">
+
+    {{/* Slide 1: "Experienced Digital Agency" — dark skin (dark text on light bg) */}}
+    <div class="hero-slider__slide hero-slider__slide--active hero-slider__slide--dark" data-slide="0">
+      <div class="hero-slider__bg" style="background-image: url('/images/slides/dccx-glob-slider_web.jpg');"></div>
+      <div class="hero-slider__content">
+        <h1 class="hero-slider__title">Experienced Digital<br>Agency</h1>
+        <p class="hero-slider__subtitle">Unsere L&ouml;sungen sind so individuell wie unsere Kunden.</p>
+        <a href="/our-services/" class="hero-slider__link">
+          <span class="hero-slider__link-text">view more</span>
+          <span class="hero-slider__link-icon">
+            <svg width="20" height="20" viewBox="0 0 20.252 20.252"><path d="M0 10.217h20.252M10.125 20.252V0" stroke="currentColor" fill="none"/></svg>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    {{/* Slide 2: "Unique Solutions for your need" — light skin (light text on dark bg) */}}
+    <div class="hero-slider__slide hero-slider__slide--light" data-slide="1">
+      <div class="hero-slider__bg" style="background-image: url('/images/slides/dccx_mond_slider_web.jpg');"></div>
+      <div class="hero-slider__content">
+        <h1 class="hero-slider__title">Unique Solutions<br>for your need</h1>
+        <p class="hero-slider__subtitle">Von der Planung der Strategien &ndash; der Gestaltung und konkreter Umsetzung</p>
+        <a href="/our-services/" class="hero-slider__link">
+          <span class="hero-slider__link-text">view more</span>
+          <span class="hero-slider__link-icon">
+            <svg width="20" height="20" viewBox="0 0 20.252 20.252"><path d="M0 10.217h20.252M10.125 20.252V0" stroke="currentColor" fill="none"/></svg>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    {{/* Slide 3: "The New Era of AI in Daily Process" — light skin */}}
+    <div class="hero-slider__slide hero-slider__slide--light" data-slide="2">
+      <div class="hero-slider__bg" style="background-image: url('/images/slides/dccx_sky_slider_web.jpg');"></div>
+      <div class="hero-slider__content">
+        <h1 class="hero-slider__title">The New Era<br>of AI in Daily Process</h1>
+        <p class="hero-slider__subtitle">K&uuml;nstliche Intelligenz &ndash; erleben Sie schon jetzt, wie sie Ihren beruflichen Alltag erleichtert!</p>
+        <a href="/our-services/" class="hero-slider__link">
+          <span class="hero-slider__link-text">view more</span>
+          <span class="hero-slider__link-icon">
+            <svg width="20" height="20" viewBox="0 0 20.252 20.252"><path d="M0 10.217h20.252M10.125 20.252V0" stroke="currentColor" fill="none"/></svg>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    {{/* Slide 4: "Professional Individual Software" — light skin */}}
+    <div class="hero-slider__slide hero-slider__slide--light" data-slide="3">
+      <div class="hero-slider__bg" style="background-image: url('/images/slides/dccx_mood_slider_web.jpg');"></div>
+      <div class="hero-slider__content">
+        <h1 class="hero-slider__title">Professional Individual Software</h1>
+        <p class="hero-slider__subtitle">Software ist nicht gleich Software &ndash; Wir entwickeln die passende L&ouml;sung.</p>
+        <a href="/our-services/" class="hero-slider__link">
+          <span class="hero-slider__link-text">view more</span>
+          <span class="hero-slider__link-icon">
+            <svg width="20" height="20" viewBox="0 0 20.252 20.252"><path d="M0 10.217h20.252M10.125 20.252V0" stroke="currentColor" fill="none"/></svg>
+          </span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  {{/* Slide indicators */}}
+  <div class="hero-slider__indicators">
+    <button class="hero-slider__indicator hero-slider__indicator--active" data-slide="0" aria-label="Slide 1"></button>
+    <button class="hero-slider__indicator" data-slide="1" aria-label="Slide 2"></button>
+    <button class="hero-slider__indicator" data-slide="2" aria-label="Slide 3"></button>
+    <button class="hero-slider__indicator" data-slide="3" aria-label="Slide 4"></button>
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 2: Value Proposition
+     "Transparent - Fair - Individuell - Schnell"
+     Original: elementor text-editor widget with rich HTML
+     ======================================== */}}
+<section class="value-proposition">
+  <div class="container">
+    <div class="value-proposition__content">
+      <h1 class="value-proposition__heading">Transparent &ndash; Fair &ndash; Individuell &ndash; Schnell</h1>
+      <p>Genug von <strong>intransparenten</strong> Angeboten und <strong>m&uuml;hsamer</strong> Suche nach Experten?</p>
+      <p>Mit uns finden Sie die perfekte L&ouml;sung f&uuml;r Ihre Bed&uuml;rfnisse &ndash; ganz transparent, fair und individuell.</p>
+      <h2 class="value-proposition__subheading">Unser Versprechen:</h2>
+      <ul class="value-proposition__list">
+        <li><strong>Individuelle Beratung:</strong> Wir nehmen uns Zeit f&uuml;r Ihre Anliegen und erarbeiten gemeinsam mit Ihnen die optimale L&ouml;sung.</li>
+        <li><strong>Transparente Preise:</strong> Sie wissen immer genau, wof&uuml;r Sie bezahlen &ndash; keine versteckten Kosten, keine b&ouml;sen &Uuml;berraschungen.</li>
+        <li><strong>Schnelle Umsetzung:</strong> Wir setzen Ihre L&ouml;sung z&uuml;gig und unkompliziert um.</li>
+        <li><strong>Alles aus einer Hand:</strong> Wir k&uuml;mmern uns um alles &ndash; von der Planung bis zur Umsetzung. Sie haben nur einen Ansprechpartner und m&uuml;ssen sich um nichts weiter k&uuml;mmern.</li>
+      </ul>
+      <h6 class="value-proposition__tagline">Verlieren Sie keine Zeit mehr mit langwieriger Suche und unzuverl&auml;ssigen Angeboten.</h6>
+    </div>
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 3: 6 Service Cards (Item Showcase)
+     Split layout: 3 left, center image area, 3 right
+     Original: hawat_core_item_showcase widget
+     ======================================== */}}
+<section class="services-showcase">
+  <div class="container">
+    <div class="services-showcase__layout">
+
+      {{/* Left column: first 3 services */}}
+      <div class="services-showcase__column services-showcase__column--left">
+        {{ range first 3 site.Data.services.homepage_main }}
+        <div class="services-showcase__item">
+          <div class="services-showcase__icon">
+            {{ if eq .icon "trending-up" }}
+            {{/* Onlinemarketing — browser/monitor icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="39" height="33" viewBox="0 0 39.401 32.472">
+              <g fill="currentColor">
+                <path d="M36.951 32.472H2.45A2.453 2.453 0 0 1 0 30.023v-22a.758.758 0 0 1 1.516 0v22a.936.936 0 0 0 .934.935h34.5a.936.936 0 0 0 .935-.935v-22a.758.758 0 0 1 1.515 0v22a2.453 2.453 0 0 1-2.45 2.45"/>
+                <path d="M25.223 8.784a.755.755 0 0 1-.6-.3l-5.526-7.268a.758.758 0 0 1 1.207-.917l5.522 7.268a.758.758 0 0 1-.6 1.216"/>
+                <path d="M32.799 8.784a.755.755 0 0 1-.6-.3l-5.521-7.268A.758.758 0 0 1 27.88.299l5.522 7.268a.758.758 0 0 1-.6 1.216"/>
+                <path d="M19.7 8.785H.758A.757.757 0 0 1 0 8.026V2.45A2.453 2.453 0 0 1 2.45-.001H19.7a.758.758 0 1 1 0 1.515H2.45a.936.936 0 0 0-.935.935v4.819H19.7a.758.758 0 1 1 0 1.515"/>
+                <path d="M27.659 8.785h-2.434a.758.758 0 1 1 0-1.515h2.434a.758.758 0 1 1 0 1.515"/>
+                <path d="M38.643 8.785H32.96a.758.758 0 1 1 0-1.515h4.925V2.45a.936.936 0 0 0-.935-.935h-12.7a.758.758 0 0 1 0-1.515h12.7a2.453 2.453 0 0 1 2.45 2.45v5.577a.758.758 0 0 1-.758.758"/>
+                <path d="M11.395 4.394a1.18 1.18 0 1 0 1.18-1.18 1.18 1.18 0 0 0-1.18 1.18"/>
+                <path d="M7.79 4.394a1.18 1.18 0 1 0 1.18-1.18 1.18 1.18 0 0 0-1.18 1.18"/>
+                <path d="M4.186 4.394a1.18 1.18 0 1 0 1.179-1.18 1.179 1.179 0 0 0-1.179 1.18"/>
+              </g>
+            </svg>
+            {{ else if eq .icon "code" }}
+            {{/* Individualsoftware — 3D cube icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="48" viewBox="0 0 53.938 47.51">
+              <path fill="currentColor" d="m53.75 46.916.02-.024c.009-.011.017-.022.025-.034l.019-.028.019-.032c.007-.011.013-.023.019-.034a.267.267 0 0 0 .014-.03c.006-.013.012-.026.017-.039l.01-.029c0-.014.01-.028.014-.043s.005-.02.008-.03.007-.028.01-.042 0-.023 0-.036V46.432a.264.264 0 0 0 0-.031v-.077c0-.017 0-.035-.008-.053v-.026c0-.013-.007-.026-.01-.04s-.007-.026-.01-.039-.007-.017-.01-.026-.012-.032-.019-.049l-1.319-2.93a.779.779 0 0 0-1.42.639l.351.78-10.767-6.22V23.814a.714.714 0 0 0-.006-.1v-.007a.8.8 0 0 0-.017-.084l-.007-.023c-.007-.023-.014-.045-.023-.067l-.009-.023a.8.8 0 0 0-.041-.082.766.766 0 0 0-.051-.076l-.015-.019c-.015-.019-.031-.037-.048-.054l-.016-.017a.732.732 0 0 0-.066-.057.706.706 0 0 0-.079-.054h-.005l-12.591-7.27V3.191l.467.649a.779.779 0 1 0 1.264-.91L27.586.323l-.034-.042-.017-.02-.029-.029L27.475.2l-.022-.019-.04-.032-.017-.011-.043-.028-.028-.015-.038-.019L27.25.06l-.031-.013-.051-.016-.028-.008-.045-.01h-.258l-.031.005-.038.005-.03.008-.042.013-.032.013-.036.015-.039.02-.028.015-.043.028-.017.011-.04.032-.029.022-.028.026-.029.031-.016.019c-.011.014-.023.028-.034.043L24.443 2.93a.779.779 0 0 0 1.264.91l.467-.649v12.685l-12.591 7.27h-.005a.766.766 0 0 0-.079.054.845.845 0 0 0-.066.058l-.016.017a.689.689 0 0 0-.048.055l-.015.018a.87.87 0 0 0-.051.078.66.66 0 0 0-.042.083l-.008.022c-.009.023-.017.045-.023.068l-.006.023a.848.848 0 0 0-.017.085v.005a.724.724 0 0 0-.006.1V38.36L2.468 44.553l.34-.756a.77903177.77903177 0 0 0-1.421-.639l-1.319 2.93c-.007.016-.013.034-.02.051l-.008.024c0 .013-.008.026-.011.04s-.007.025-.01.038v.028c0 .017-.006.034-.008.052v.191a.357.357 0 0 0 .005.036c0 .014.006.028.009.042s0 .02.008.03.009.029.014.043l.01.029c.005.013.011.026.017.039a.278.278 0 0 0 .014.03c.006.011.012.023.019.034s.013.022.02.033l.019.028.025.034.02.023.03.034.022.022.025.031.028.022.031.023.037.024.026.016c.015.009.031.017.047.025l.017.008.059.023.018.007c.016.005.033.009.05.013l.03.008H.63l.063.01 3.2.322a.7.7 0 0 0 .079 0 .779.779 0 0 0 .077-1.553l-.767-.078 10.687-6.171 12.591 7.27h.007a.7.7 0 0 0 .085.042h.005a.738.738 0 0 0 .082.028l.023.005a.662.662 0 0 0 .07.014h.024a.773.773 0 0 0 .093.006.789.789 0 0 0 .093-.006h.023a.664.664 0 0 0 .07-.014l.023-.005a.745.745 0 0 0 .082-.028h.005a.705.705 0 0 0 .085-.042h.007l12.591-7.27 10.691 6.173-.741.075a.779.779 0 0 0 .077 1.553.7.7 0 0 0 .079 0l3.2-.322.06-.009h.022l.027-.007.053-.014.016-.006.061-.023.015-.008c.017-.008.034-.016.049-.025l.025-.015c.013-.008.027-.016.039-.025l.03-.022.037-.024.032-.029.022-.022c.011-.011.02-.022.03-.033m-26.8-16.5-11.423-6.6 11.423-6.6 11.423 6.6Zm-12.2-5.246 11.423 6.6v13.19l-11.423-6.6Zm12.981 19.785v-13.19l11.423-6.6V38.36Z"/>
+            </svg>
+            {{ else if eq .icon "heart" }}
+            {{/* Betriebliche Gesundheitsfoerderung — globe/world icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+              <g fill="currentColor">
+                <path d="M37.531 33.613h-1.732a.75.75 0 0 1 0-1.5h1.729a.925.925 0 0 0 .924-.924v-21H2.499v21a.925.925 0 0 0 .924.924h1.576a.75.75 0 0 1 0 1.5H3.422a2.425 2.425 0 0 1-2.423-2.426V9.445a.749.749 0 0 1 .749-.749h37.451a.749.749 0 0 1 .749.749v21.742a2.425 2.425 0 0 1-2.422 2.422"/>
+                <path d="M39.2 10.194H1.749A.749.749 0 0 1 1 9.445V3.931A2.425 2.425 0 0 1 3.422 1.51h34.109a2.425 2.425 0 0 1 2.422 2.422v5.513a.749.749 0 0 1-.749.749M2.5 8.696h35.955V3.931a.925.925 0 0 0-.924-.924H3.422a.925.925 0 0 0-.924.924Z"/>
+                <path d="M28.493 5.851a.972.972 0 1 1-.972-.972.972.972 0 0 1 .972.972"/>
+                <path d="M32.057 5.851a.972.972 0 1 1-.972-.972.972.972 0 0 1 .972.972"/>
+                <path d="M35.62 5.851a.972.972 0 1 1-.972-.972.972.972 0 0 1 .972.972"/>
+                <path d="M20.476 40.163a.75.75 0 0 1 0-1.5c3.157 0 5.825-5.574 5.825-12.172s-2.667-12.173-5.825-12.173a.75.75 0 1 1 0-1.5 13.671 13.671 0 1 1 0 27.341m4.02-25.162c2 2.415 3.3 6.617 3.3 11.491s-1.3 9.075-3.3 11.49a12.174 12.174 0 0 0 0-22.981"/>
+                <path d="M20.477 40.164a13.671 13.671 0 1 1 0-27.342.75.75 0 0 1 0 1.5c-3.157 0-5.825 5.574-5.825 12.173s2.668 12.172 5.825 12.172a.75.75 0 0 1 0 1.5m-4.021-25.164a12.173 12.173 0 0 0 0 22.98c-2-2.415-3.3-6.616-3.3-11.49s1.3-9.076 3.3-11.49"/>
+                <path d="M20.476 40.163c-4.107 0-7.323-6-7.323-13.671s3.217-13.671 7.323-13.671a.749.749 0 0 1 .749.749v25.844a.749.749 0 0 1-.749.749m-.749-25.738c-2.819.8-5.076 6-5.076 12.067s2.257 11.272 5.076 12.067Z"/>
+                <path d="M20.476 40.163a.749.749 0 0 1-.749-.749V13.571a.749.749 0 0 1 .749-.749c4.106 0 7.323 6 7.323 13.671s-3.217 13.67-7.323 13.67m.749-25.738V38.56c2.819-.8 5.075-6 5.075-12.067s-2.256-11.272-5.075-12.067"/>
+                <path d="M33.396 27.241H7.564a.75.75 0 1 1 0-1.5h25.832a.75.75 0 0 1 0 1.5"/>
+              </g>
+            </svg>
+            {{ else if eq .icon "globe" }}
+            {{/* Websites — VR headset/face icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="39" viewBox="0 0 31.734 38.604">
+              <path fill="currentColor" d="M30.507 10.772h-.68a4.184 4.184 0 0 0-3.02-3.77 10.666 10.666 0 0 0-4.308-5.255 13.454 13.454 0 0 0-13.259 0 10.661 10.661 0 0 0-4.314 5.25 4.184 4.184 0 0 0-3.02 3.77h-.678a1.229 1.229 0 0 0-1.229 1.23v3.872a1.229 1.229 0 0 0 1.227 1.228h.678a4.184 4.184 0 0 0 3.027 3.772 15.95 15.95 0 0 0 4.074 6.758l.073.066a10.749 10.749 0 0 1-.619 3.6 10.443 10.443 0 0 1-5.69 6.1.6361415.6361415 0 1 0 .54 1.152 11.784 11.784 0 0 0 6.369-6.884 12.336 12.336 0 0 0 .634-2.977 9.669 9.669 0 0 0 11.106 0 12.248 12.248 0 0 0 .634 2.977 11.776 11.776 0 0 0 6.368 6.884.636.636 0 0 0 .539-1.152 10.443 10.443 0 0 1-5.689-6.1 10.718 10.718 0 0 1-.619-3.6l.071-.066a15.944 15.944 0 0 0 4.077-6.756 4.183 4.183 0 0 0 3.026-3.772h.68a1.23 1.23 0 0 0 1.228-1.228v-3.874a1.229 1.229 0 0 0-1.228-1.227M1.899 15.827h-.628v-3.784h.628ZM15.867 1.272c4.447 0 7.777 1.968 9.484 5.568H6.384c1.705-3.6 5.035-5.568 9.483-5.568m0 27.894c-4.195 0-7.711-3.022-9.536-8.135h6.358a1.848 1.848 0 0 0 1.845-1.846.639.639 0 0 1 .638-.637h1.39a.638.638 0 0 1 .638.637 1.847 1.847 0 0 0 1.845 1.846h6.354c-1.825 5.113-5.342 8.135-9.536 8.135m12.7-12.31a2.907 2.907 0 0 1-2.9 2.9h-6.615a.575.575 0 0 1-.574-.574 1.912 1.912 0 0 0-1.909-1.909h-1.39a1.911 1.911 0 0 0-1.909 1.909.575.575 0 0 1-.574.574H6.078a2.907 2.907 0 0 1-2.9-2.9v-5.841a2.907 2.907 0 0 1 2.9-2.9h19.585a2.907 2.907 0 0 1 2.9 2.9Zm1.9-1.029h-.628v-3.784h.628Z"/>
+            </svg>
+            {{ else if eq .icon "cpu" }}
+            {{/* KI-Beratung — 3D box/package icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32.075 32.074">
+              <path fill="currentColor" d="m8.139 21.221-1.231.54a.662.662 0 1 0 .531 1.212l1.231-.54a.662.662 0 1 0-.531-1.212m3.283-1.44-1.231.54a.662.662 0 0 0 .532 1.212l1.231-.54a.662.662 0 0 0-.532-1.212m12.059 2.163 1.233.276a.642.642 0 0 0 .145.016.662.662 0 0 0 .141-1.307l-1.233-.276a.662.662 0 0 0-.289 1.292m-3.286-.738 1.233.276a.671.671 0 0 0 .145.016.662.662 0 0 0 .144-1.308l-1.233-.276a.662.662 0 1 0-.289 1.292m-5.184-2.648a.662.662 0 0 0-1.323 0v.23l-.21.092a.662.662 0 1 0 .531 1.212l.408-.179.435.1a.672.672 0 0 0 .145.016.662.662 0 0 0 .144-1.308l-.129-.029Zm13.215 3.728V8.349c0-.012 0-.025-.006-.037s0-.015-.005-.023-.006-.027-.01-.039l-.006-.02c0-.014-.01-.028-.015-.042V8.17c-.007-.015-.014-.03-.022-.044s0-.009-.006-.013-.02-.035-.031-.051l-.014-.018-.022-.03-.019-.021-.021-.023-.02-.02-.025-.021-.02-.017-.03-.021-.018-.013-.041-.024-.011-.006c-.018-.009-.036-.018-.055-.026h-.011l-.045-.016-.025-.007-.026-.007L14.49 4.829a.662.662 0 0 0-.411.04l-9.831 4.31h-.009a.631.631 0 0 0-.069.036l-.012.007a.728.728 0 0 0-.068.05l-.014.012c-.018.017-.036.034-.053.053l-.009.009a.679.679 0 0 0-.052.068l-.008.012a.627.627 0 0 0-.036.065l-.007.014a.617.617 0 0 0-.03.079v.017c0 .014-.008.028-.011.042s0 .017 0 .026v.024a.717.717 0 0 0-.006.087v13.862a.661.661 0 0 0 .518.646l13.214 2.957c.018 0 .037.007.056.009h.014a.638.638 0 0 0 .071 0 .669.669 0 0 0 .2-.031l.059-.022 9.831-4.31a.661.661 0 0 0 .4-.606m-11.16-3.12a.662.662 0 0 0-.165 1.308l.165.037v5.263l-11.89-2.666V10.6l8.507 1.782v.609a.662.662 0 0 0 1.323 0v-.332l2.06.432Zm.6-7.3-2.817-.59a.66.66 0 0 0-.5-.229.652.652 0 0 0-.284.065l-7.392-1.55 7.739-3.393 10.976 2.456Zm9.233 9.991-8.507 3.73v-4.83a.662.662 0 0 0 .034-1.3l-.034-.008v-6.454L26.9 9.427Zm4.514 3.106a.661.661 0 0 0-.662.662v5.126h-5.127a.662.662 0 1 0 0 1.324h5.788a.662.662 0 0 0 .662-.662v-5.788a.662.662 0 0 0-.662-.662m0-24.962h-5.788a.662.662 0 1 0 0 1.324h5.126V6.45a.662.662 0 0 0 1.324 0V.662A.662.662 0 0 0 31.413 0M.662 7.107a.661.661 0 0 0 .662-.662V1.324H6.34A.662.662 0 0 0 6.34 0H.662A.662.662 0 0 0 0 .662V6.45a.662.662 0 0 0 .662.662M6.34 30.75H1.324v-5.126a.662.662 0 0 0-1.324 0v5.788a.662.662 0 0 0 .662.662H6.34a.662.662 0 0 0 0-1.324"/>
+            </svg>
+            {{ else if eq .icon "smartphone" }}
+            {{/* App-Entwicklung — smiley/controller icon from original */}}
+            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="34" viewBox="0 0 42 34">
+              <g fill="currentColor">
+                <path d="M20.643 32.963c-9.676 0-20.643 0-20.643-12.32a20.643 20.643 0 1 1 41.285 0c0 12.32-10.967 12.32-20.643 12.32m0-31.312a19.013 19.013 0 0 0-18.99 18.992c0 9.926 7.52 10.669 18.991 10.669s18.991-.743 18.991-10.669A19.013 19.013 0 0 0 20.643 1.651"/>
+                <path d="M29.007 22.02H12.276a5.544 5.544 0 1 1 0-11.088h16.731a5.544 5.544 0 1 1 0 11.088m-16.731-9.432a3.893 3.893 0 1 0 0 7.786h16.731a3.893 3.893 0 1 0 0-7.785Z"/>
+                <path d="M15.158 16.487a2.167 2.167 0 1 1-2.162-2.172 2.167 2.167 0 0 1 2.162 2.172"/>
+                <path d="M30.461 16.487a2.167 2.167 0 1 1-2.167-2.167 2.167 2.167 0 0 1 2.167 2.167"/>
+              </g>
+            </svg>
+            {{ else }}
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+            </svg>
+            {{ end }}
+          </div>
+          <h5 class="services-showcase__title">{{ .title }}</h5>
+          <p class="services-showcase__text">{{ .description }}</p>
+        </div>
+        {{ end }}
+      </div>
+
+      {{/* Center image area (decorative, empty in original) */}}
+      <div class="services-showcase__center">
+      </div>
+
+      {{/* Right column: last 3 services */}}
+      <div class="services-showcase__column services-showcase__column--right">
+        {{ range after 3 site.Data.services.homepage_main }}
+        <div class="services-showcase__item">
+          <div class="services-showcase__icon">
+            {{ if eq .icon "globe" }}
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="39" viewBox="0 0 31.734 38.604">
+              <path fill="currentColor" d="M30.507 10.772h-.68a4.184 4.184 0 0 0-3.02-3.77 10.666 10.666 0 0 0-4.308-5.255 13.454 13.454 0 0 0-13.259 0 10.661 10.661 0 0 0-4.314 5.25 4.184 4.184 0 0 0-3.02 3.77h-.678a1.229 1.229 0 0 0-1.229 1.23v3.872a1.229 1.229 0 0 0 1.227 1.228h.678a4.184 4.184 0 0 0 3.027 3.772 15.95 15.95 0 0 0 4.074 6.758l.073.066a10.749 10.749 0 0 1-.619 3.6 10.443 10.443 0 0 1-5.69 6.1.6361415.6361415 0 1 0 .54 1.152 11.784 11.784 0 0 0 6.369-6.884 12.336 12.336 0 0 0 .634-2.977 9.669 9.669 0 0 0 11.106 0 12.248 12.248 0 0 0 .634 2.977 11.776 11.776 0 0 0 6.368 6.884.636.636 0 0 0 .539-1.152 10.443 10.443 0 0 1-5.689-6.1 10.718 10.718 0 0 1-.619-3.6l.071-.066a15.944 15.944 0 0 0 4.077-6.756 4.183 4.183 0 0 0 3.026-3.772h.68a1.23 1.23 0 0 0 1.228-1.228v-3.874a1.229 1.229 0 0 0-1.228-1.227M1.899 15.827h-.628v-3.784h.628ZM15.867 1.272c4.447 0 7.777 1.968 9.484 5.568H6.384c1.705-3.6 5.035-5.568 9.483-5.568m0 27.894c-4.195 0-7.711-3.022-9.536-8.135h6.358a1.848 1.848 0 0 0 1.845-1.846.639.639 0 0 1 .638-.637h1.39a.638.638 0 0 1 .638.637 1.847 1.847 0 0 0 1.845 1.846h6.354c-1.825 5.113-5.342 8.135-9.536 8.135m12.7-12.31a2.907 2.907 0 0 1-2.9 2.9h-6.615a.575.575 0 0 1-.574-.574 1.912 1.912 0 0 0-1.909-1.909h-1.39a1.911 1.911 0 0 0-1.909 1.909.575.575 0 0 1-.574.574H6.078a2.907 2.907 0 0 1-2.9-2.9v-5.841a2.907 2.907 0 0 1 2.9-2.9h19.585a2.907 2.907 0 0 1 2.9 2.9Zm1.9-1.029h-.628v-3.784h.628Z"/>
+            </svg>
+            {{ else if eq .icon "cpu" }}
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32.075 32.074">
+              <path fill="currentColor" d="m8.139 21.221-1.231.54a.662.662 0 1 0 .531 1.212l1.231-.54a.662.662 0 1 0-.531-1.212m3.283-1.44-1.231.54a.662.662 0 0 0 .532 1.212l1.231-.54a.662.662 0 0 0-.532-1.212m12.059 2.163 1.233.276a.642.642 0 0 0 .145.016.662.662 0 0 0 .141-1.307l-1.233-.276a.662.662 0 0 0-.289 1.292m-3.286-.738 1.233.276a.671.671 0 0 0 .145.016.662.662 0 0 0 .144-1.308l-1.233-.276a.662.662 0 1 0-.289 1.292m-5.184-2.648a.662.662 0 0 0-1.323 0v.23l-.21.092a.662.662 0 1 0 .531 1.212l.408-.179.435.1a.672.672 0 0 0 .145.016.662.662 0 0 0 .144-1.308l-.129-.029Zm13.215 3.728V8.349c0-.012 0-.025-.006-.037s0-.015-.005-.023-.006-.027-.01-.039l-.006-.02c0-.014-.01-.028-.015-.042V8.17c-.007-.015-.014-.03-.022-.044s0-.009-.006-.013-.02-.035-.031-.051l-.014-.018-.022-.03-.019-.021-.021-.023-.02-.02-.025-.021-.02-.017-.03-.021-.018-.013-.041-.024-.011-.006c-.018-.009-.036-.018-.055-.026h-.011l-.045-.016-.025-.007-.026-.007L14.49 4.829a.662.662 0 0 0-.411.04l-9.831 4.31h-.009a.631.631 0 0 0-.069.036l-.012.007a.728.728 0 0 0-.068.05l-.014.012c-.018.017-.036.034-.053.053l-.009.009a.679.679 0 0 0-.052.068l-.008.012a.627.627 0 0 0-.036.065l-.007.014a.617.617 0 0 0-.03.079v.017c0 .014-.008.028-.011.042s0 .017 0 .026v.024a.717.717 0 0 0-.006.087v13.862a.661.661 0 0 0 .518.646l13.214 2.957c.018 0 .037.007.056.009h.014a.638.638 0 0 0 .071 0 .669.669 0 0 0 .2-.031l.059-.022 9.831-4.31a.661.661 0 0 0 .4-.606m-11.16-3.12a.662.662 0 0 0-.165 1.308l.165.037v5.263l-11.89-2.666V10.6l8.507 1.782v.609a.662.662 0 0 0 1.323 0v-.332l2.06.432Zm.6-7.3-2.817-.59a.66.66 0 0 0-.5-.229.652.652 0 0 0-.284.065l-7.392-1.55 7.739-3.393 10.976 2.456Zm9.233 9.991-8.507 3.73v-4.83a.662.662 0 0 0 .034-1.3l-.034-.008v-6.454L26.9 9.427Zm4.514 3.106a.661.661 0 0 0-.662.662v5.126h-5.127a.662.662 0 1 0 0 1.324h5.788a.662.662 0 0 0 .662-.662v-5.788a.662.662 0 0 0-.662-.662m0-24.962h-5.788a.662.662 0 1 0 0 1.324h5.126V6.45a.662.662 0 0 0 1.324 0V.662A.662.662 0 0 0 31.413 0M.662 7.107a.661.661 0 0 0 .662-.662V1.324H6.34A.662.662 0 0 0 6.34 0H.662A.662.662 0 0 0 0 .662V6.45a.662.662 0 0 0 .662.662M6.34 30.75H1.324v-5.126a.662.662 0 0 0-1.324 0v5.788a.662.662 0 0 0 .662.662H6.34a.662.662 0 0 0 0-1.324"/>
+            </svg>
+            {{ else if eq .icon "smartphone" }}
+            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="34" viewBox="0 0 42 34">
+              <g fill="currentColor">
+                <path d="M20.643 32.963c-9.676 0-20.643 0-20.643-12.32a20.643 20.643 0 1 1 41.285 0c0 12.32-10.967 12.32-20.643 12.32m0-31.312a19.013 19.013 0 0 0-18.99 18.992c0 9.926 7.52 10.669 18.991 10.669s18.991-.743 18.991-10.669A19.013 19.013 0 0 0 20.643 1.651"/>
+                <path d="M29.007 22.02H12.276a5.544 5.544 0 1 1 0-11.088h16.731a5.544 5.544 0 1 1 0 11.088m-16.731-9.432a3.893 3.893 0 1 0 0 7.786h16.731a3.893 3.893 0 1 0 0-7.785Z"/>
+                <path d="M15.158 16.487a2.167 2.167 0 1 1-2.162-2.172 2.167 2.167 0 0 1 2.162 2.172"/>
+                <path d="M30.461 16.487a2.167 2.167 0 1 1-2.167-2.167 2.167 2.167 0 0 1 2.167 2.167"/>
+              </g>
+            </svg>
+            {{ else }}
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+            </svg>
+            {{ end }}
+          </div>
+          <h5 class="services-showcase__title">{{ .title }}</h5>
+          <p class="services-showcase__text">{{ .description }}</p>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 4: References
+     "Unsere Referenzen" heading + 3 reference cards
+     Original: 3 equal columns, full-width, each with image + link text
+     ======================================== */}}
+<section class="references">
+  <div class="container">
+    <h4 class="references__heading">Unsere Referenzen</h4>
+  </div>
+  <div class="references__grid">
+
+    <div class="references__card">
+      <a href="http://www.bildstadt.at" target="_blank" rel="noopener">
+        <img loading="lazy" src="/images/references/bildstadt.jpg" alt="bildstadt" class="references__image">
+      </a>
+      <p class="references__link"><a href="http://www.bildstadt.at" target="_blank" rel="noopener">www.bildstadt.at</a></p>
+    </div>
+
+    <div class="references__card">
+      <a href="https://www.pandocs.com" target="_blank" rel="noopener">
+        <img loading="lazy" src="/images/references/pandocs.jpg" alt="Pandocs" class="references__image">
+      </a>
+      <p class="references__link"><a href="http://www.pandocs.com" target="_blank" rel="noopener">www.pandocs.com</a></p>
+    </div>
+
+    <div class="references__card">
+      <a href="https://www.siethomgroup.com" target="_blank" rel="noopener">
+        <img loading="lazy" src="/images/references/siethom.jpg" alt="Siethom Group" class="references__image">
+      </a>
+      <p class="references__link"><a href="http://www.siethomgroup.com" target="_blank" rel="noopener">www.siethomgroup.com</a></p>
+    </div>
+
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 5: Client Logo Carousel
+     ======================================== */}}
+{{ partial "client-logos.html" . }}
+
+
+{{/* ========================================
+     Section 6: CTA - "Bereit fur den nachsten Schritt?"
+     Original: 2-column layout, left = stacked image, right = text + button
+     ======================================== */}}
+<section class="home-cta">
+  <div class="container">
+    <div class="home-cta__wrapper">
+      <div class="home-cta__image">
+        <img src="/images/misc/cta-image.png" alt="dccx Team" loading="lazy">
+      </div>
+      <div class="home-cta__content">
+        <h2 class="home-cta__heading">Bereit f&uuml;r den n&auml;chsten Schritt?</h2>
+        <p class="home-cta__text">Gleich individuelles Beratungsgespr&auml;ch buchen. Wir nehmen uns f&uuml;r unsere Kunden ausf&uuml;hrlich Zeit. Wir gehen gemeinsam Anforderungen und W&uuml;nschen auf den Grund.</p>
+        <a href="/kontakt/" class="home-cta__button">
+          <span class="home-cta__button-text">Wir freuen uns Sie kennen zu lernen</span>
+          <span class="home-cta__button-icon">
+            <svg width="20" height="20" viewBox="0 0 20.252 20.252"><path d="M0 10.217h20.252M10.125 20.252V0" stroke="currentColor" fill="none"/></svg>
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 7: Marquee
+     "The place for all your Digital Solutions //"
+     ======================================== */}}
+{{ partial "marquee.html" (dict "text" "The place for all your Digital Solutions") }}
+
+
+{{/* ========================================
+     Section 8: "Alles aus einer Hand" + BBG Partner Seal
+     Original: 2-column layout
+     Left: heading + 2x2 grid of service cards with "read more" links
+     Right: BBG Partner seal image
+     ======================================== */}}
+<section class="alles-aus-einer-hand">
+  <div class="container">
+    <div class="alles-aus-einer-hand__wrapper">
+
+      <div class="alles-aus-einer-hand__left">
+        <h2 class="alles-aus-einer-hand__heading">alles aus einer hand...</h2>
+        <div class="alles-aus-einer-hand__grid">
+          {{ range site.Data.services.homepage_bottom }}
+          <div class="alles-card">
+            <h5 class="alles-card__title">{{ .title }}</h5>
+            <p class="alles-card__description">{{ .description }}</p>
+            <a href="{{ .url }}" class="alles-card__link">
+              <span class="alles-card__link-icon">
+                <svg width="12" height="12" viewBox="0 0 11.645 11.645"><path d="M11.645 5.823H0" stroke="currentColor" fill="none"/><path d="M5.823 0v11.645" stroke="currentColor" fill="none"/></svg>
+              </span>
+              <span class="alles-card__link-text">read more</span>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="alles-aus-einer-hand__right">
+        <img src="/images/misc/bbg-seal.png" alt="BBG Partner Siegel" class="alles-aus-einer-hand__seal" loading="lazy">
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+{{/* ========================================
+     Section 9: Tech Stack
+     ======================================== */}}
+{{ partial "tech-stack.html" . }}
+
+{{ end }}

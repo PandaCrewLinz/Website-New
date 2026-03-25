@@ -1,0 +1,11 @@
+{{- $text := .text | default "Die Zukunft der Arbeit beginnt hier" -}}
+<section class="marquee">
+  <div class="marquee__inner">
+    <span class="marquee-content">
+      {{ $text }} // {{ $text }} // {{ $text }} // {{ $text }} //&nbsp;
+    </span>
+    <span class="marquee-content" aria-hidden="true">
+      {{ $text }} // {{ $text }} // {{ $text }} // {{ $text }} //&nbsp;
+    </span>
+  </div>
+</section>

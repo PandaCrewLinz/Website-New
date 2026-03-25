@@ -1,0 +1,21 @@
+management:
+  - name: "Dominik Wittkowski"
+    role: "Geschäftsführer"
+    image: "/images/team/dominik-wittkowski.jpg"
+  - name: "Christoph Huber, MSc"
+    role: "Geschäftsführer"
+    image: "/images/team/christoph-huber.jpg"
+
+members:
+  - name: "Jonas"
+    role: "Software Developer"
+    image: "/images/team/placeholder.jpg"
+  - name: "Team Member"
+    role: "Designer"
+    image: "/images/team/placeholder.jpg"
+  - name: "Team Member"
+    role: "Marketing"
+    image: "/images/team/placeholder.jpg"
+  - name: "Team Member"
+    role: "Developer"
+    image: "/images/team/placeholder.jpg"

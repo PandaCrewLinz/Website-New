@@ -1,0 +1,13 @@
+{{- $text := .text | default "Haben Sie Fragen? Wir beraten Sie gerne." -}}
+{{- $bookingURL := "" -}}
+{{- with .Site }}{{ $bookingURL = .Params.bookingURL }}{{ end -}}
+{{- if not $bookingURL }}{{ $bookingURL = site.Params.bookingURL }}{{ end -}}
+<section class="mehr-infos">
+  <div class="mehr-infos__container">
+    <h2 class="mehr-infos__heading">Mehr Infos</h2>
+    <p class="mehr-infos__text">{{ $text }}</p>
+    <a href="{{ $bookingURL }}" class="mehr-infos__button" target="_blank" rel="noopener noreferrer">
+      Wir freuen uns Sie kennen zu lernen
+    </a>
+  </div>
+</section>

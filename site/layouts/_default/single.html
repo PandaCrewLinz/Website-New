@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+{{- if .Params.show_hero }}
+<section class="hero hero--page">
+  <div class="hero__container">
+    {{ with .Params.hero_image }}
+    <div class="hero__image">
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="eager">
+    </div>
+    {{ end }}
+    <div class="hero__content">
+      <h1 class="hero__title">{{ .Title }}</h1>
+      {{ with .Params.hero_subtitle }}
+      <p class="hero__subtitle">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{- end }}
+
+<section class="page-content">
+  <div class="container">
+    {{ if not .Params.show_hero }}
+    <h1>{{ .Title }}</h1>
+    {{ end }}
+    {{ .Content }}
+  </div>
+</section>
+
+{{- if .Params.show_cta_bar }}
+  {{- partial "cta-bar.html" (dict "text" (.Params.cta_text | default "Lassen Sie uns gemeinsam Ihre digitale Zukunft gestalten.") "buttonText" (.Params.cta_button_text | default "Kontakt aufnehmen")) -}}
+{{- end }}
+
+{{- if .Params.show_values_row }}
+  {{- partial "values-row.html" . -}}
+{{- end }}
+
+{{- if .Params.show_marquee }}
+  {{- partial "marquee.html" (dict "text" (.Params.marquee_text | default "Die Zukunft der Arbeit beginnt hier")) -}}
+{{- end }}
+
+{{- if .Params.show_tech_stack }}
+  {{- partial "tech-stack.html" . -}}
+{{- end }}
+
+{{- if .Params.show_mehr_infos }}
+  {{- partial "mehr-infos.html" (dict "text" (.Params.mehr_infos_text | default "Haben Sie Fragen? Wir beraten Sie gerne.") "Site" .Site) -}}
+{{- end }}
+
+{{ end }}

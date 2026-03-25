@@ -1,0 +1,32 @@
+baseURL = "https://www.dccx-digital.com/"
+languageCode = "de"
+title = "dccx GmbH"
+defaultContentLanguage = "de"
+
+[params]
+  description = "The place for all your Digital Solutions"
+  companyName = "dccx GmbH"
+  address = "Helmholtzstraße 47"
+  zip = "4020"
+  city = "Linz"
+  country = "Austria"
+  email = "office@dccx.it"
+  phone = "+43 732 65 01 28 103"
+  phoneDisplay = "+43 732 65 01 28 103"
+  hoursMoTh = "08:00 – 17:00 Uhr"
+  hoursFr = "08:00 – 16:00 Uhr"
+  bookingURL = "https://meet.brevo.com/christoph-huber/dccx-call"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  page = ["HTML"]
