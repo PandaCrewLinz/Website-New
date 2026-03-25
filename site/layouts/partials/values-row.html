@@ -9,7 +9,7 @@
         </svg>
       </div>
       <h3 class="values-row__title">Erfahrung</h3>
-      <p class="values-row__text">Mit jahrelanger Erfahrung in der Branche kennen wir die Herausforderungen und L&ouml;sungen, die Ihr Unternehmen voranbringen.</p>
+      <p class="values-row__text">{{ with .Params.values_erfahrung }}{{ . }}{{ else }}Mit jahrelanger Erfahrung in der Branche kennen wir die Herausforderungen und L&ouml;sungen, die Ihr Unternehmen voranbringen.{{ end }}</p>
     </div>
 
     <div class="values-row__item">
@@ -19,7 +19,7 @@
         </svg>
       </div>
       <h3 class="values-row__title">Kreativit&auml;t</h3>
-      <p class="values-row__text">Unser Team aus kreativen K&ouml;pfen entwickelt innovative L&ouml;sungen, die Ihre Marke zum Strahlen bringen.</p>
+      <p class="values-row__text">{{ with .Params.values_kreativitaet }}{{ . }}{{ else }}Unser Team aus kreativen K&ouml;pfen entwickelt innovative L&ouml;sungen, die Ihre Marke zum Strahlen bringen.{{ end }}</p>
     </div>
 
     <div class="values-row__item">
@@ -30,7 +30,7 @@
         </svg>
       </div>
       <h3 class="values-row__title">Individueller Ansatz</h3>
-      <p class="values-row__text">Wir verstehen, dass jedes Unternehmen einzigartig ist und bieten ma&szlig;geschneiderte L&ouml;sungen f&uuml;r Ihre spezifischen Anforderungen.</p>
+      <p class="values-row__text">{{ with .Params.values_individueller_ansatz }}{{ . }}{{ else }}Wir verstehen, dass jedes Unternehmen einzigartig ist und bieten ma&szlig;geschneiderte L&ouml;sungen f&uuml;r Ihre spezifischen Anforderungen.{{ end }}</p>
     </div>
 
     <div class="values-row__item">
@@ -42,7 +42,7 @@
         </svg>
       </div>
       <h3 class="values-row__title">Ergebnis Fokussiert</h3>
-      <p class="values-row__text">Unser Fokus liegt auf messbaren Ergebnissen, die einen echten Unterschied f&uuml;r Ihr Unternehmen machen.</p>
+      <p class="values-row__text">{{ with .Params.values_ergebnis_fokussiert }}{{ . }}{{ else }}Unser Fokus liegt auf messbaren Ergebnissen, die einen echten Unterschied f&uuml;r Ihr Unternehmen machen.{{ end }}</p>
     </div>
 
   </div>

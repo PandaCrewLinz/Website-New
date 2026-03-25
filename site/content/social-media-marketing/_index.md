@@ -10,6 +10,10 @@ marquee_text: "Die Zukunft der Arbeit beginnt hier"
 show_mehr_infos: true
 show_cta_bar: false
 show_tech_stack: false
+values_erfahrung: "Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde Social Media Landschaft meistert."
+values_kreativitaet: "Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben."
+values_individueller_ansatz: "Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen."
+values_ergebnis_fokussiert: "Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Social Media Präsenz in echte Geschäftsergebnisse zu verwandeln."
 ---
 
 ## Social Media Marketing
@@ -56,13 +60,13 @@ Dieses Paket beinhaltet:
 
 Dieses Paket beinhaltet:
 
-- **3 hochwertige Videoproduktionen** (wie im Video-Paket)
-- **100 bearbeitete Fotos in Ihrem neuen und individuellen Look** (wie im Bild-Paket)
-- **Fotostudio:** Die Aufnahmen finden bei Bedarf in unserem professionellen Fotostudio statt.
-- **Fotobearbeitung:** Professionelle Bildbearbeitung und Optimierung für Web, Social Media, Print und Co.
-- **Video Konzeption & Creative Directing**
-- **Beratung & Coaching**
-- **Verwertung für Web, Social Media & Co.**
+- **3 hochwertige Videoproduktionen:** Wir produzieren drei ansprechende und professionelle Videos für Ihre Social Media Kanäle. (wie im Video-Paket)
+- **100 bearbeitete Fotos in Ihrem neuen und individuellen Look:** Wir erstellen 100 professionelle Fotos, die perfekt zu Ihrer Marke und Ihrem Corporate Design passen. (wie im Bild-Paket)
+- **Fotostudio:** Die Aufnahmen finden bei Bedarf in unserem professionellen Fotostudio statt, um optimale Licht- und Tonverhältnisse zu gewährleisten.
+- **Fotobearbeitung:** Wir bearbeiten Ihre Fotos professionell und optimieren sie für die Verwendung auf Web, Social Media, Print und Co.
+- **Video Konzeption & Creative Directing:** Wir entwickeln gemeinsam mit Ihnen ein kreatives Konzept für Ihre Videos und Fotos und sorgen dafür, dass diese Ihre Zielgruppe begeistern.
+- **Beratung & Coaching:** Wir beraten Sie umfassend zu allen Aspekten des Social Media Marketings und coachen Sie bei der Erstellung Ihrer Social Media Strategie.
+- **Verwertung für Web, Social Media & Co.:** Wir optimieren Ihre Videos und Fotos für die verschiedenen Social Media Plattformen und stellen sicher, dass sie auch auf Ihrer Website und in anderen Kanälen optimal dargestellt werden.
 
 **Preis:** 3.699 Euro
 
@@ -70,10 +74,10 @@ Dieses Paket beinhaltet:
 
 Dieses Paket beinhaltet:
 
-- **5 Reels pro Monat**
-- **10 Stories pro Monat**
-- **10 Posts pro Monat**
-- **Briefing/Vorbesprechung/Planung**
+- **5 Reels pro Monat:** Wir erstellen kreative und ansprechende Reels für Ihre Kanäle, die Ihre Zielgruppe begeistern werden.
+- **10 Stories pro Monat:** Wir produzieren interessante und informative Stories für Ihre Kanäle, um mit Ihren Followern in Kontakt zu bleiben.
+- **10 Posts pro Monat:** Wir erstellen ansprechende und hochwertige Posts für Ihre Kanäle, die Ihre Marke und Ihre Produkte oder Dienstleistungen präsentieren.
+- **Briefing/Vorbesprechung/Planung:** Wir führen regelmäßige Briefings mit Ihnen durch, um Ihre Ziele und Wünsche zu besprechen und einen Redaktionsplan zu erstellen.
 - **Alle Rechte:** Sie erhalten alle Rechte an den erstellten Inhalten.
 - **Keine Bindung:** Sie können das Paket jederzeit mit einer Frist von einem Monat kündigen.
 
@@ -81,17 +85,21 @@ Dieses Paket beinhaltet:
 
 **5. Social Media II -- Komplette Auslagerung Ihres Social Media Auftritts**
 
+Wir kümmern uns um alles, von der Content-Erstellung bis zum Community-Management.
+
 Dieses Paket beinhaltet:
 
-- **Individuelle Strategie**
-- **Hochwertiger Content**
-- **Professionelles Community-Management**
-- **Umfassende Analyse**
-- **Preis auf Anfrage**
+- **Individuelle Strategie:** Gemeinsam mit Ihnen entwickeln wir eine maßgeschneiderte Social Media Strategie, die perfekt zu Ihren Zielen passt.
+- **Hochwertiger Content:** Wir produzieren ansprechende und relevante Inhalte, die Ihre Zielgruppe begeistern.
+- **Professionelles Community-Management:** Wir bauen eine starke Community um Ihre Marke auf und interagieren aktiv mit Ihren Followern.
+- **Umfassende Analyse:** Wir tracken den Erfolg Ihrer Social Media Aktivitäten und liefern Ihnen wertvolle Insights.
+- **Preis auf Anfrage:** Gerne erstellen wir Ihnen ein individuelles Angebot, das Ihren Bedürfnissen und Ihrem Budget entspricht.
 
 **6. Förderung**
 
 **Gute Nachrichten für KMUs!** Ab sofort werden 40 Prozent der Kosten für Digitalisierungsmaßnahmen gefördert. Auch **Fotos & Videos** werden dabei gefördert.
+
+Digitalisierung ist der Schlüssel zum Erfolg im modernen Geschäftsleben. Doch die Umsetzung digitaler Projekte kann für kleine und mittlere Unternehmen (KMUs) eine finanzielle Herausforderung sein. Die gute Nachricht: Die Wirtschaftskammer (WKO) fördert jetzt die Digitalisierung von KMUs mit bis zu 40% der Kosten!
 
 Nutzen Sie diese einmalige Gelegenheit und lassen Sie sich von unseren Experten kostenlos beraten, welche Förderung zu Ihnen passt!
 
@@ -105,24 +113,24 @@ Kontaktieren Sie uns noch heute, um mehr über unsere maßgeschneiderten Social 
 
 **1. Strategische Planung**
 
-Wir entwickeln maßgeschneiderte Social Media Strategien, die perfekt zu Ihren Geschäftszielen passen.
+Wir entwickeln maßgeschneiderte Social Media Strategien, die perfekt zu Ihren Geschäftszielen passen. Egal, ob Sie eine neue Marke einführen oder Ihre bestehende Präsenz ausbauen möchten, unsere Strategien sind darauf ausgerichtet, maximale Ergebnisse zu erzielen.
 
 **2. Inhaltskreation**
 
-Ansprechende Inhalte sind der Schlüssel zum Erfolg in den sozialen Medien. Unser Team produziert hochwertige Fotos, Videos und Grafiken.
+Ansprechende Inhalte sind der Schlüssel zum Erfolg in den sozialen Medien. Unser Team aus kreativen Köpfen produziert hochwertige Fotos, Videos und Grafiken, die Ihre Zielgruppe begeistern und zum Interagieren anregen.
 
 **3. Community Management**
 
-Eine aktive Community ist unverzichtbar. Wir übernehmen das Management Ihrer Social Media Accounts.
+Eine aktive Community ist unverzichtbar. Wir übernehmen das Management Ihrer Social Media Accounts, reagieren auf Kommentare, beantworten Nachrichten und sorgen für eine positive Interaktion mit Ihren Followern.
 
 **4. Anzeigenmanagement**
 
-Gezielte Werbeanzeigen helfen dabei, Ihre Reichweite zu erhöhen und potenzielle Kunden anzusprechen.
+Gezielte Werbeanzeigen helfen dabei, Ihre Reichweite zu erhöhen und potenzielle Kunden anzusprechen. Unsere Experten optimieren Ihre Anzeigenkampagnen, um die besten Ergebnisse für Ihr Budget zu erzielen.
 
 **5. Analyse und Optimierung**
 
-Durch kontinuierliche Analyse identifizieren wir Stärken und Schwächen und passen unsere Strategien entsprechend an.
+Wir überlassen nichts dem Zufall. Durch kontinuierliche Analyse der Leistung Ihrer Social Media Aktivitäten identifizieren wir Stärken und Schwächen und passen unsere Strategien entsprechend an.
 
 **6. Budgetoptimierung**
 
-Ihre Investition in Social Media wie Facebook, Instagram, TikTok, LinkedIn, YouTube, etc. soll maximale Ergebnisse erzielen.
+Ihre Investition in Social Media wie Facebook, Instagram, TikTok, LinkedIn, YouTube, etc. soll maximale Ergebnisse erzielen. Wir überwachen und optimieren kontinuierlich Ihr Budget, um sicherzustellen, dass Sie den besten Wert erhalten.

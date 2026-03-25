@@ -6,7 +6,7 @@ show_hero: true
 show_values_row: true
 show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: false
+show_mehr_infos: true
 show_cta_bar: true
 show_tech_stack: true
 ---
@@ -15,10 +15,20 @@ Unsere aktuell offenen Stellen:
 
 - Empathie
 - Vertrauen
-- Spirit
+- Spass
 
 ## Derzeit keine offenen Stellen – Initiativbewerbungen willkommen!
 
-Wir sind immer auf der Suche nach talentierten und motivierten Menschen, die unser Team verstärken möchten. Auch wenn derzeit keine konkreten Stellenangebote ausgeschrieben sind, freuen wir uns über Ihre Initiativbewerbung.
+Auch wenn wir aktuell keine spezifischen Positionen ausgeschrieben haben, sind wir bei dccx stets an talentierten und motivierten Persönlichkeiten interessiert, die unsere Leidenschaft für digitale Innovationen teilen.
 
-Senden Sie Ihre Unterlagen an [office@dccx.it](mailto:office@dccx.it) und erzählen Sie uns, warum Sie zu dccx passen.
+Sie sind davon überzeugt, dass Ihre Fähigkeiten und Ideen eine Bereicherung für unser Team darstellen könnten? Dann freuen wir uns auf Ihre aussagekräftige Initiativbewerbung. Zeigen Sie uns, was Sie bewegt und wo Sie Ihre Stärken bei uns einbringen möchten.
+
+Bitte senden Sie Ihre Unterlagen an [office@dccx.it](mailto:office@dccx.it)
+
+Wir prüfen jede Bewerbung sorgfältig und melden uns bei Ihnen, sobald sich eine passende Möglichkeit ergibt.
+
+##### Bereit, für den nächsten Schritt?
+
+Wir freuen uns darauf dich kennen zu lernen und deine Fragen zu beantworten.
+
+[Kontaktieren](https://www.dccx-digital.com/kontakt/)

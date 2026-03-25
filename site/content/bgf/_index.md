@@ -28,6 +28,16 @@ Sie möchten die Gesundheit und Zufriedenheit der Mitarbeitenden in Ihrem Untern
 
 Pandocs ist eine moderne, digitale BGF-Lösung: Im Gegensatz zu analogen Einzelmaßnahmen kann Pandocs flexibel in den Alltag integriert und anonym genutzt werden. Vor allem beim Thema mentales Wohlbefinden resultiert das in deutlich höheren Nutzungszahlen.
 
+[Folder Herunterladen](/downloads/Pandocs_B2B.pdf)
+
+![](/images/bgf/01_Login-Start@2x.png)
+
+![](/images/bgf/02_Dashboard@2x.png)
+
+![](/images/bgf/03_Challenge-Tagestraining@2x.png)
+
+![](/images/bgf/05_Challenge-Tagestraining-1@2x.png)
+
 #### Eine Win-Win Situation
 
 ##### Arbeitgebende
@@ -52,6 +62,12 @@ Das ist betriebliche Gesundheitsförderung, die etwas bringt und funktioniert.
 
 [Kostenloses Erstgespräch vereinbaren](https://meet.brevo.com/christoph-huber/dccx-call)
 
+Sie sehen gerade einen Platzhalterinhalt von **Standard**. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf den Button unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.
+
+[Inhalt entsperren](#) [Erforderlichen Service akzeptieren und Inhalte entsperren](#)
+
+[Weitere Informationen](#)
+
 ### Ein vollständiges Konzept
 
 Pandocs ist keine weitere Insellösung, sondern bietet Ihnen einen ganzheitliches Ansatz.
@@ -75,6 +91,8 @@ Bewegung ist wichtig -- keine Frage. Aber zwischen Wissen und Tun liegt bekanntl
 Mit Pandocs wird Ihre betriebliche Gesundheitsförderung so individuell, wie es auch Ihr Unternehmen ist.
 
 Das klingt nach viel Arbeit? Ist es nicht! Denn Pandocs liefert bereits eine Vielzahl an Inhalten, die von Expert:innen sorgfältig erstellt wurden. Zusätzlich zu diesen Standard-Inhalten können Sie aber auch firmeninterne Challenges und Belohnungen erstellen, die nur für Ihre Mitarbeiter:innen sichtbar sind.
+
+![](/images/bgf/Pandocs-Business.webp)
 
 - Firmeninterne Aktionstage und Informationen
 - Firmeninterne Belohnungen und Verlosungen

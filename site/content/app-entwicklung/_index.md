@@ -8,8 +8,13 @@ show_values_row: true
 show_marquee: true
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
 show_mehr_infos: true
+mehr_infos_text: "Haben Sie Fragen zu Design, Funktionen oder Kosten einer App? Oder möchten Sie uns Ihre Ideen für Ihre Traumapp mitteilen?"
 show_cta_bar: false
 show_tech_stack: true
+values_erfahrung: "Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert."
+values_kreativitaet: "Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben."
+values_individueller_ansatz: "Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen."
+values_ergebnis_fokussiert: "Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln."
 ---
 
 ## App-Entwicklung
