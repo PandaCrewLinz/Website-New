@@ -1,6 +1,7 @@
 # Hugo build output
 site/public/
 site/resources/
+site/_sync-public*/
 
 # Node
 node_modules/

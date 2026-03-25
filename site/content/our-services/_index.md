@@ -4,14 +4,12 @@ description: "Unsere Leistungen - App Entwicklung, Foto und Video, Social Media 
 layout: "single"
 show_hero: true
 show_values_row: false
-show_marquee: true
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
+show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false
 ---
-
-## Leistungen
 
 ##### App Entwicklung
 
@@ -43,7 +41,7 @@ Sie möchten Ihren eigenen Onlineshop eröffnen oder Ihren bestehenden Shop opti
 
 [read more](/onlineshops/)
 
-##### Betriebliche Gesundheitsförderung
+##### Betriebliche Gesundheits­förderung
 
 Optimieren Sie Ihre BGF-Maßnahmen mit unserer digitalen Lösung "Pandocs". Erreichen Sie mehr Kolleginnen und Kollegen und steigern Sie die Wirksamkeit Ihrer Gesundheitsförderung.
 
@@ -64,3 +62,18 @@ Wir sind Ihr Spezialist für High-End-Websites und bieten ein Maximum an User Ex
 ##### Apps
 
 [Kontakt](/kontakt/)
+
+![](https://www.dccx-digital.com/wp-content/uploads/2023/10/06_dccx-symbol-outline-white.png)
+
+Die Zukunft der Arbeit beginnt hier
+//
+
+Die Zukunft der Arbeit beginnt hier
+//
+
+## Mehr Infos
+
+Interessieren Sie sich für unsere Leistungen? Oder haben Sie schon konkrete Vorstellungen?
+Wir beraten Sie umfassend und erstellen Ihnen ein individuelles Angebot.
+
+[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

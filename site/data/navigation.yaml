@@ -21,6 +21,8 @@ main:
             url: "ki-assistenz-wissenssysteme/"
           - name: "Workshops"
             url: "ki-workshops/"
+
+
   - name: "KI-Agent"
     url: "ki-agent/"
   - name: "Über uns"
@@ -33,12 +35,12 @@ main:
       - name: "Offene Stellen"
         url: "offene-stellen/"
       - name: "Merchandise"
-        url: "merchandise/"
+        url: "merch-2/"
       - name: "Blog"
         url: "blog/"
+
   - name: "Kontakt"
     url: "kontakt/"
-
 footer_services:
   - name: "App-Entwicklung"
     url: "app-entwicklung/"
@@ -50,7 +52,6 @@ footer_services:
     url: "social-media-marketing/"
   - name: "Websites"
     url: "websites/"
-
 footer_contact:
   - name: "Kontakt"
     url: "kontakt/"

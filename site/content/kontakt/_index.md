@@ -1,17 +1,15 @@
 ---
 title: "Kontakt"
 description: "Kontaktieren Sie die dccx GmbH in Linz. Beratungsgespräch buchen."
-layout: "kontakt"
+layout: "single"
 show_hero: false
 show_values_row: false
-show_marquee: true
+show_marquee: false
 marquee_text: "Get In Touch"
 show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false
 ---
-
-## Kontakt
 
 #### dccx GmbH
 
@@ -23,14 +21,20 @@ Helmholtzstraße 47,
 
 [office@dccx.it](mailto:office@dccx.it)
 
-Mo -- Do 09:00 -- 17:00 Uhr
+Mo – Do 09:00 – 17:00 Uhr
 
-Freitag 09:00 -- 15:00 Uhr
+Freitag 09:00 – 15:00 Uhr
 
 [Direkt Beratungsgespräch buchen](https://meet.brevo.com/christoph-huber/dccx-call)
 
+Get In Touch
+//
+
+Get In Touch
+//
+
 **Parken leicht gemacht:**
 
-- **Kostenlose Parkplätze** stehen Ihnen in unserem **Innenhof** zur Verfügung.
-- **Einfahrt:** Fahren Sie einfach durch das **blaue Tor**.
-- **Parken:** Die Parkplätze befinden sich auf der **linken Seite**.
+- **Kostenlose Parkplätze** stehen Ihnen in unserem **Innenhof** zur Verfügung.
+- **Einfahrt:** Fahren Sie einfach durch das **blaue Tor**.
+- **Parken:** Die Parkplätze befinden sich auf der **linken Seite**.

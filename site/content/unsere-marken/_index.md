@@ -1,15 +1,17 @@
 ---
-title: "Unser Marken"
+title: "Unsere Marken"
 description: "Die Marken der dccx GmbH - Bildstadt, Say Cheeze, Foto24Studio, Pandocs und prenudge."
 layout: "single"
 show_hero: true
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
+
+![](https://www.dccx-digital.com/wp-content/uploads/2026/01/ChatGPT-Image-28.-Jan.-2026-12_48_29.png)
 
 #### **Die dccx GmbH**
 
@@ -37,11 +39,15 @@ Die bildstadt GmbH ist ein Linzer Studio für Foto und Videoproduktionen mit kla
 
 Zur Website: [Link](https://bildstadt.at/)
 
+![](https://www.dccx-digital.com/wp-content/uploads/2026/01/bildstadt_logo.png)
+
 ##### Say Cheeze
 
 say cheeze ist das Selfie Fotostudio zum Selberknipsen. Ihr seid gleichzeitig Model und Fotograf und fotografiert euch mit fixen Kameras und Fernauslöser, die Ergebnisse seht ihr sofort am Monitor. Nach der Session könnt ihr eure Bilder online im passwortgeschützten Account ansehen und bestellen oder downloaden.
 
 Zur Website: [Link](https://www.say-cheeze.at/)
+
+![](https://www.dccx-digital.com/wp-content/uploads/2026/01/SayCheeze_Logo.webp)
 
 ##### Foto24Studio
 
@@ -49,8 +55,40 @@ foto24studio ist euer Fotostudio in Linz für private Shootings und persönliche
 
 Zur Website: [Link](https://www.foto24studio.com/)
 
+![](https://www.dccx-digital.com/wp-content/uploads/2026/01/f24s_logo_short_black.png)
+
 ##### Pandocs
 
 pandocs ist eine Gesundheits und Lifestyle App, die Nutzer spielerisch zu mehr Fitness, mentalem Wohlbefinden und besserer Ernährung motiviert. Im Zentrum stehen tägliche Challenges, geführte Workouts und Belohnungen für gesundes Verhalten. Für Unternehmen gibt es mit Pandocs Business einen Ansatz zur betrieblichen Gesundheitsförderung.
 
 Zur Website: [Link](https://www.pandocs.com/de/)
+
+![](https://www.dccx-digital.com/wp-content/uploads/2026/01/Pandocs_Logo-1024x210.png)
+
+### Erfahrung
+
+Mit jahrelanger Erfahrung in der Branche wissen wir, was funktioniert und wie man die sich ständig ändernde digitale Landschaft meistert.
+
+### Kreativität
+
+Unser Team aus kreativen Köpfen sprudelt vor Ideen, um Ihre Marke auf eine einzigartige Weise hervorzuheben.
+
+### Individueller Ansatz
+
+Wir verstehen, dass jedes Unternehmen einzigartig ist. Daher entwickeln wir maßgeschneiderte Lösungen, die zu Ihren spezifischen Zielen passen.
+
+### Ergebnis Fokussiert
+
+Unser Fokus liegt auf messbaren Ergebnissen. Wir arbeiten hart daran, Ihre Vorstellungen und Ansprüche in echte Geschäftsergebnisse zu verwandeln.
+
+Die Zukunft der Arbeit beginnt hier
+//
+
+Die Zukunft der Arbeit beginnt hier
+//
+
+## Mehr Infos
+
+Sie haben Fragen?
+
+[Wir freuen uns Sie kennen zu lernen](https://meet.brevo.com/christoph-huber/dccx-call)

@@ -4,17 +4,15 @@ description: "Professionelle Websites von dccx - Webdesign, Entwicklung, respons
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Websites
-
-![Grafik ein Mann erstellt eine Website](/images/dccx-website-scaled.jpg)
+![Grafik ein Mann erstellt eine Website](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-website-scaled.jpg)
 
 #### **Willkommen bei dccx – Ihrer Quelle für beeindruckende Websites!**
 
@@ -22,15 +20,15 @@ Wir bei dccx verstehen die Bedeutung einer professionellen Online-Präsenz für 
 
 ##### Unsere Dienstleistungen umfassen:
 
-- ##### [1\. Webdesign und -entwicklung](/websites/\#qodef-tab-1efb34c)
+- ##### [1\. Webdesign und -entwicklung](/websites//#qodef-tab-1efb34c)
 
-- ##### [2\. Responsives Design](/websites/\#qodef-tab-49f47c4)
+- ##### [2\. Responsives Design](/websites//#qodef-tab-49f47c4)
 
-- ##### [3\. E-Commerce-Lösungen](/websites/\#qodef-tab-352ab53)
+- ##### [3\. E-Commerce-Lösungen](/websites//#qodef-tab-352ab53)
 
-- ##### [4\. SEO-Optimierung](/websites/\#qodef-tab-505b974)
+- ##### [4\. SEO-Optimierung](/websites//#qodef-tab-505b974)
 
-- ##### [5\. Wartung, Support und Updates](/websites/\#qodef-tab-988e330)
+- ##### [5\. Wartung, Support und Updates](/websites//#qodef-tab-988e330)
 
 
 Unsere erfahrenen Designer und Entwickler arbeiten Hand in Hand, um maßgeschneiderte Websites zu schaffen, die Ihre Marke perfekt widerspiegeln. Von ansprechenden Layouts bis hin zu benutzerfreundlichen Funktionen sorgen wir dafür, dass Ihre Website Ihre Zielgruppe anspricht und beeindruckt.

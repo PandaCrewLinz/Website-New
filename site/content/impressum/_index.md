@@ -10,42 +10,10 @@ show_cta_bar: false
 show_tech_stack: false
 ---
 
-## dccx GmbH
+## dccx GmbH  Gesellschaft mit beschränkter Haftung  Geschäftsführer: Dominik Wittkowski und Christoph Huber, MSc     Unternehmensgegenstand: Softwarelösungen und IT-Dienstleistungen     UID-Nummer: ATU80201602    FN: 618825 m  FB-Gericht: Linz  Aufsichtsbehörde/Gewerbebehörde: BH Linz  Sitz:  Helmholtzstraße 47, 4020 Linz, Austria  Telefon: +43 732 650128   E-Mail: office@dccx.it    Supportanfrage? Oder es ist ein Problem aufgetreten?  Kontaktieren Sie bitte office@dccx.it    Mitglied der WKO, Landesinnung Softwareentwicklung, Bundesinnung: Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik.    Berufsrecht: [Gewerbeordnung 1994](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517)    Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: [http://ec.europa.eu/odr](http://ec.europa.eu/odr). Sie können allfällige Beschwerde auch an die oben angegebene E-Mail-Adresse richten.    Der Schutz Ihrer Daten ist uns wichtig. Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Dateschutzerklärung
 
-Gesellschaft mit beschränkter Haftung
+# Datenschutz
 
-Geschäftsführer: Dominik Wittkowski und Christoph Huber, MSc
-
-Unternehmensgegenstand: Softwarelösungen und IT-Dienstleistungen
-
-UID-Nummer: ATU80201602
-
-FN: 618825 m
-
-FB-Gericht: Linz
-
-Aufsichtsbehörde/Gewerbebehörde: BH Linz
-
-Sitz: Helmholtzstraße 47, 4020 Linz, Austria
-
-Telefon: +43 732 650128
-
-E-Mail: office@dccx.it
-
-**Supportanfrage? Oder es ist ein Problem aufgetreten?**
-
-Kontaktieren Sie bitte office@dccx.it
-
-Mitglied der WKO, Landesinnung Softwareentwicklung, Bundesinnung: Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik.
-
-Berufsrecht: [Gewerbeordnung 1994](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517)
-
-Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: [http://ec.europa.eu/odr](http://ec.europa.eu/odr). Sie können allfällige Beschwerde auch an die oben angegebene E-Mail-Adresse richten.
-
-Der Schutz Ihrer Daten ist uns wichtig. Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer [Datenschutzerklärung](/datenschutz/).
-
-## Datenschutz
-
-### HAFTUNG FUR INHALTE
+HAFTUNG FÜR INHALTE
 
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.

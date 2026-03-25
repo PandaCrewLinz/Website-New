@@ -4,17 +4,15 @@ description: "KI-gestutzte Telefonassistenz von dccx - Automatische Reservierung
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# KI-gestützte Telefonassistenz
-
-![Ein Roboter oder KI der die Anrufe entgegen nimmt](/images/Roboter-der-Telefoniert.webp)
+![Ein Roboter oder KI der die Anrufe entgegen nimmt](https://www.dccx-digital.com/wp-content/uploads/2025/01/Roboter-der-Telefoniert.webp)
 
 #### **KI-Mitarbeiter am Telefon**
 

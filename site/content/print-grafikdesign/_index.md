@@ -4,17 +4,15 @@ description: "Print und Grafikdesign von dccx - Printdesign, UI/UX-Design, Corpo
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Print & Grafikdesign
-
-![Mann der an einem Schreibtisch sitzt und Designt.](/images/dccx-grafikdesign-scaled.jpg)
+![Mann der an einem Schreibtisch sitzt und Designt.](https://www.dccx-digital.com/wp-content/uploads/2024/05/dccx-grafikdesign-scaled.jpg)
 
 ###### Gutes Design liegt im Detail – und wir sind Experten darin, diese Details mit Leidenschaft zu pflegen und herausragende Ergebnisse zu erzielen.
 
@@ -24,13 +22,13 @@ Unser Leistungsspektrum erstreckt sich über Grafikdesign und klassisches Printd
 
 ##### Unsere Dienstleistungen
 
-- ##### [\- Print](/print-grafikdesign/\#qodef-tab-04bd9cb)
+- ##### [\- Print](/print-grafikdesign//#qodef-tab-04bd9cb)
 
-- ##### [\- UI/UX-Design](/print-grafikdesign/\#qodef-tab-464efff)
+- ##### [\- UI/UX-Design](/print-grafikdesign//#qodef-tab-464efff)
 
-- ##### [\- Corporate Identity](/print-grafikdesign/\#qodef-tab-b6a09ce)
+- ##### [\- Corporate Identity](/print-grafikdesign//#qodef-tab-b6a09ce)
 
-- ##### [\- Grafiken & Animationen](/print-grafikdesign/\#qodef-tab-20786ca)
+- ##### [\- Grafiken & Animationen](/print-grafikdesign//#qodef-tab-20786ca)
 
 
 Unsere Palette an Dienstleistungen umfasst die Gestaltung von Broschüren, Plakaten, Einladungen, Geschäftsdrucksachen, Zeitschriften, Katalogen, Visitenkarten und vielem mehr. Unser Ziel ist es, Ihnen Ergebnisse von höchster Qualität zu liefern, die Ihre Erwartungen übertreffen.
@@ -45,13 +43,13 @@ Aktuelles Projekt
 
 Siethom Imagefolder
 
-![](/images/dccx_grafik_print_siethom_imagefolder_4-1024x819.jpg)
+![](https://www.dccx-digital.com/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_4-1024x819.jpg)
 
-![](/images/dccx_grafik_print_siethom_imagefolder_3-1024x819.jpg)
+![](https://www.dccx-digital.com/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_3-1024x819.jpg)
 
-![](/images/dccx_grafik_print_siethom_imagefolder_2-1024x819.jpg)
+![](https://www.dccx-digital.com/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_2-1024x819.jpg)
 
-![](/images/dccx_grafik_print_siethom_imagefolder_1-1024x819.gif)
+![](https://www.dccx-digital.com/wp-content/uploads/2024/06/dccx_grafik_print_siethom_imagefolder_1-1024x819.gif)
 
 ##### Bereit, loszulegen?
 

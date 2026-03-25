@@ -1,19 +1,21 @@
 ---
-title: "Aktuelle Förderungen"
+title: "Förderungen"
 description: "Aktuelle Förderungen und Förderprogramme für Digitalisierung - Erfolgplus 25 und DIGITAL.PLUS+"
 layout: "single"
 show_hero: false
 show_values_row: false
-show_marquee: true
+show_marquee: false
 marquee_text: "Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need"
 show_mehr_infos: false
 show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Aktuelle Förderungen
-
 Von strategischer Beratung und Webseitenentwicklung bis hin zur Realisierung umfassender Digitalisierungsprojekte – mithilfe der vorhandenen Fördermöglichkeiten können Sie nicht nur Ihre Investitionskosten senken, sondern auch den Prozess Ihrer digitalen Transformation beschleunigen.
+
+Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need
+
+Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need
 
 ## Erfolgplus 25
 
@@ -23,7 +25,11 @@ In einer dynamischen Welt, die sich kontinuierlich wandelt, müssen Unternehmen 
 
 Gefördert werden 50% des Beratungshonorars, maximal jedoch 750 Euro.
 
-[> mehr Infos](https://foerderungen.wkooe.at/erfolgplus)
+[view more](https://foerderungen.wkooe.at/erfolgplus)
+
+Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need
+
+Modern design with the latest technology // Experienced Digital IT Agency // Unique IT Solutions for your need
 
 ## DIGITAL.PLUS+
 
@@ -44,24 +50,12 @@ c) IT-Sicherheit und Cyber-Security
 Förderhöhe:
 – Bis zu 40 % der Projektkosten
 
-[> mehr Infos](https://foerderungen.wko.at/ooe/digitalplus25)
+[view more](https://foerderungen.wko.at/ooe/digitalplus25)
 
 ### Was wir für euch tun können?
 
-<div class="progress-section">
-<div class="progress-item">
-<span class="progress-label">Information</span>
-<div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
-<span class="progress-value">100%</span>
-</div>
-<div class="progress-item">
-<span class="progress-label">Betreuung</span>
-<div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
-<span class="progress-value">100%</span>
-</div>
-<div class="progress-item">
-<span class="progress-label">Zufriedenheit</span>
-<div class="progress-bar"><div class="progress-fill" style="width: 100%"></div></div>
-<span class="progress-value">100%</span>
-</div>
-</div>
+##### Information
+
+##### Betreuung
+
+##### Zufriedenheit

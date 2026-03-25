@@ -4,17 +4,15 @@ description: "Ihr personlicher KI-Agent von dccx - Autonome Aufgabenausfuhrung, 
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# KI-Agent
-
-![Illustration eines autonomen KI-Agenten, der Unternehmensprozesse wie Analyse, Entscheidungen und Automatisierung visuell vernetzt darstellt.](/images/agent.png)
+![Illustration eines autonomen KI-Agenten, der Unternehmensprozesse wie Analyse, Entscheidungen und Automatisierung visuell vernetzt darstellt.](https://www.dccx-digital.com/wp-content/uploads/2026/01/agent.png)
 
 #### **Das Herzstück**
 
@@ -74,7 +72,7 @@ werden:
 - Soundeffekte und Musik-Erstellung
 - Social Media Formatierung (TikTok, Instagram, YouTube)
 
-![Starter Grundgerüst + Email 4.320,- Professional Grundgerüst + Content Creator 6.720,- Business Grundgerüst + Content + OCR-Datenbank 9.120,- Enterprise Alle Module komplett 15.040,-](/images/preise-1024x683.png)
+![Starter Grundgerüst + Email 4.320,- Professional Grundgerüst + Content Creator 6.720,- Business Grundgerüst + Content + OCR-Datenbank 9.120,- Enterprise Alle Module komplett 15.040,-](https://www.dccx-digital.com/wp-content/uploads/2026/01/preise-1024x683.png)
 
 ##### Bereit, loszulegen?
 

@@ -4,17 +4,15 @@ description: "Webanalytik und Conversion-Optimierung von dccx - Datenbasierte An
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Webanalytik
-
-![Eine Frau arbeitet am Computer](/images/dccx-webanalyse-scaled.jpg)
+![Eine Frau arbeitet am Computer](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-webanalyse-scaled.jpg)
 
 ##### **Willkommen bei dccx: Ihr Partner für umfassende Webanalytik und Conversion-Optimierung!**
 
@@ -22,11 +20,11 @@ dccx – Ihrem führenden Experten für Webanalytik, Conversionoptimierung und O
 
 ##### Unsere Leistungen im Überblick:
 
-- ##### [1\. Webanalytik](/webanalytik/\#qodef-tab-56c045b)
+- ##### [1\. Webanalytik](/webanalytik//#qodef-tab-56c045b)
 
-- ##### [2\. Conversionoptimierung](/webanalytik/\#qodef-tab-fe97873)
+- ##### [2\. Conversionoptimierung](/webanalytik//#qodef-tab-fe97873)
 
-- ##### [3\. Online-Umfragen](/webanalytik/\#qodef-tab-af4b85f)
+- ##### [3\. Online-Umfragen](/webanalytik//#qodef-tab-af4b85f)
 
 
 Erkenntnisse für den Erfolg. Unser Team von erfahrenen Webanalytikern bietet Ihnen detaillierte Einblicke in das Verhalten Ihrer Website-Besucher. Durch die umfassende Analyse von Daten identifizieren wir Stärken, Schwächen und Potenziale Ihrer Online-Plattform. Unsere Experten liefern Ihnen aussagekräftige Berichte, die als Grundlage für fundierte Entscheidungen dienen, um Ihre Website kontinuierlich zu verbessern und Ihre Zielgruppen besser zu verstehen.

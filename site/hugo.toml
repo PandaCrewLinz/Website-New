@@ -2,6 +2,8 @@ baseURL = "https://beta.dccx.it/"
 languageCode = "de"
 title = "dccx GmbH"
 defaultContentLanguage = "de"
+disableKinds = ["taxonomy", "term"]
+taxonomies = {}
 
 [params]
   description = "The place for all your Digital Solutions"

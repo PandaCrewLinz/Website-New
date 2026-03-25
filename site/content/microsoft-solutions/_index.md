@@ -4,17 +4,15 @@ description: "Microsoft Solutions von dccx - Individuelle Software fur Office 36
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Microsoft Solutions
-
-![Grafik ein Mann erstellt eine Website](/images/dccx-website-scaled.jpg)
+![Grafik ein Mann erstellt eine Website](https://www.dccx-digital.com/wp-content/uploads/2023/11/dccx-website-scaled.jpg)
 
 ###### **Microsoft Solutions welche begeistern und Geschäftsziele erreichen**
 
@@ -34,13 +32,13 @@ show_tech_stack: false
 
 ## Individualsoftware im Microsoft Umfeld
 
-- ##### [1\. Office 365](/microsoft-solutions/\#qodef-tab-903cc43)
+- ##### [1\. Office 365](/microsoft-solutions//#qodef-tab-903cc43)
 
-- ##### [2\. Microsoft Teams](/microsoft-solutions/\#qodef-tab-f8bf9c3)
+- ##### [2\. Microsoft Teams](/microsoft-solutions//#qodef-tab-f8bf9c3)
 
-- ##### [3\. Power Automate](/microsoft-solutions/\#qodef-tab-65c38b0)
+- ##### [3\. Power Automate](/microsoft-solutions//#qodef-tab-65c38b0)
 
-- ##### [4\. Dynamics CRM](/microsoft-solutions/\#qodef-tab-292d6d9)
+- ##### [4\. Dynamics CRM](/microsoft-solutions//#qodef-tab-292d6d9)
 
 
 #### Erweitern Sie Ihre Office-Suite mit maßgeschneiderten Add-Ins und Integrationen!

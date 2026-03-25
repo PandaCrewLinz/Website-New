@@ -4,17 +4,15 @@ description: "Onlineshop-Erstellung und -Optimierung von dccx - Shopware, eTrust
 layout: "single"
 show_hero: true
 hero_image: ""
-show_values_row: true
-show_marquee: true
+show_values_row: false
+show_marquee: false
 marquee_text: "Die Zukunft der Arbeit beginnt hier"
-show_mehr_infos: true
-show_cta_bar: true
+show_mehr_infos: false
+show_cta_bar: false
 show_tech_stack: false
 ---
 
-# Onlineshops
-
-![Eine Frau arbeitet am Computer. Sie erstellt einen Onlineshop](/images/dccx_onlineshop-scaled.jpg)
+![Eine Frau arbeitet am Computer. Sie erstellt einen Onlineshop](https://www.dccx-digital.com/wp-content/uploads/2023/12/dccx_onlineshop-scaled.jpg)
 
 ##### Willkommen bei dccx –  Ihrem Experten für erfolgreiche Onlineshops!
 
@@ -24,15 +22,15 @@ Bei dccx dreht sich alles um die Schaffung von Onlineshops, die nicht nur ästhe
 
 #### Unsere Leistungen im Überblick:
 
-- ##### [1\. Onlineshop-Erstellung und -Optimierung:](/onlineshops/\#qodef-tab-42c87ee)
+- ##### [1\. Onlineshop-Erstellung und -Optimierung:](/onlineshops//#qodef-tab-42c87ee)
 
-- ##### [2\. eTrusted Shop Zertifizierung:](/onlineshops/\#qodef-tab-b2bdd93)
+- ##### [2\. eTrusted Shop Zertifizierung:](/onlineshops//#qodef-tab-b2bdd93)
 
-- ##### [3\. Shopware aufsetzen:](/onlineshops/\#qodef-tab-cf91620)
+- ##### [3\. Shopware aufsetzen:](/onlineshops//#qodef-tab-cf91620)
 
-- ##### [4\. Google Shopping Ads:](/onlineshops/\#qodef-tab-0627117)
+- ##### [4\. Google Shopping Ads:](/onlineshops//#qodef-tab-0627117)
 
-- ##### [5\. Kleine Shops, große Möglichkeiten:](/onlineshops/\#qodef-tab-7eba4fc)
+- ##### [5\. Kleine Shops, große Möglichkeiten:](/onlineshops//#qodef-tab-7eba4fc)
 
 
 Egal ob Sie einen neuen Onlineshop aufbauen oder Ihren bestehenden Shop verbessern möchten, unser Team von erfahrenen Designern und Entwicklern steht Ihnen zur Seite. Wir entwickeln Onlineshops, die nicht nur ansprechend gestaltet sind, sondern auch eine nahtlose Benutzererfahrung bieten, um Ihre Kunden zu begeistern und zum Kauf zu bewegen.
